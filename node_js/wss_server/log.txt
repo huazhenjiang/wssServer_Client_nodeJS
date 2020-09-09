@@ -1,0 +1,76 @@
+
+Testing Time:2020-08-14T09:00:37.807Z, Server running at 443
+Client connected
+Frames received, start timer
+1 minutes passing
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 634472
+2 minutes passing
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 1270135
+3 minutes passing
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 1930419
+4 minutes passing
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 2559058
+5 minutes passing
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 3232052
+6 minutes passing
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 3935243
+7 minutes passing
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 4680806
+8 minutes passing
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 5404094
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 6055757
+9 minutes passing
+10 minutes passing
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 6658504
+11 minutes passing
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 7264117
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 7865467
+12 minutes passing
+13 minutes passing
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 8466698
+14 minutes passing
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 9061387
+15 minutes passing
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 9650962
+16 minutes passing
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 10245564
+17 minutes passing
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 10843576
+18 minutes passing
+Total transfered frames:9001, miss amount:0, Total Transferred size: 11385771
+19 minutes passing
+Total transfered frames:9501, miss amount:0, Total Transferred size: 11874481
+20 minutes passing
+Total transfered frames:10001, miss amount:0, Total Transferred size: 12320066
+21 minutes passing
+Total transfered frames:10501, miss amount:0, Total Transferred size: 12773675
+22 minutes passing
+Total transfered frames:11001, miss amount:0, Total Transferred size: 13257289
+23 minutes passing
+Total transfered frames:11501, miss amount:0, Total Transferred size: 13740737
+24 minutes passing
+Total transfered frames:12001, miss amount:0, Total Transferred size: 14215406
+25 minutes passing
+Total transfered frames:12501, miss amount:0, Total Transferred size: 14646534
+26 minutes passing
+Total transfered frames:13001, miss amount:0, Total Transferred size: 15072077
+Total transfered frames:13501, miss amount:0, Total Transferred size: 15486967
+27 minutes passing
+28 minutes passing
+Total transfered frames:14001, miss amount:0, Total Transferred size: 15900937
+29 minutes passing
+Total transfered frames:14501, miss amount:0, Total Transferred size: 16308330
+30 minutes passing
+Total transfered frames:15001, miss amount:0, Total Transferred size: 16719106
+31 minutes passing
+Total transfered frames:15501, miss amount:0, Total Transferred size: 17129396
+32 minutes passing
+Total transfered frames:16001, miss amount:0, Total Transferred size: 17541082
+33 minutes passing
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 18006565
+34 minutes passing
+Total transfered frames:NaN, miss amount:0, Total Transferred size: 18536627
+35 minutes passing
+Total transfered frames:17501, miss amount:0, Total Transferred size: 19048637
+36 minutes passing
+Total transfered frames:18001, miss amount:0, Total Transferred size: 19553877

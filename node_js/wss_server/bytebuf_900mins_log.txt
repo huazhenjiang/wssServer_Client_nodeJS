@@ -1,0 +1,2014 @@
+
+Testing Time:2020-08-11T08:07:11.267Z
+Server running at 443
+Client connected
+Timer Enabled
+1 minutes passing
+Total transfered frames:500, miss amount:0, Total Transferred size: 628383
+2 minutes passing
+Total transfered frames:1000, miss amount:0, Total Transferred size: 1262492
+3 minutes passing
+Total transfered frames:1501, miss amount:0, Total Transferred size: 1983240
+4 minutes passing
+Total transfered frames:2001, miss amount:0, Total Transferred size: 2709953
+5 minutes passing
+Total transfered frames:2501, miss amount:0, Total Transferred size: 3426160
+6 minutes passing
+Total transfered frames:3001, miss amount:0, Total Transferred size: 4060380
+7 minutes passing
+Total transfered frames:3501, miss amount:0, Total Transferred size: 4670957
+8 minutes passing
+Total transfered frames:4001, miss amount:0, Total Transferred size: 5298481
+Total transfered frames:4500, miss amount:0, Total Transferred size: 5939728
+9 minutes passing
+10 minutes passing
+Total transfered frames:5000, miss amount:0, Total Transferred size: 6572990
+11 minutes passing
+Total transfered frames:5501, miss amount:0, Total Transferred size: 7190750
+12 minutes passing
+Total transfered frames:6001, miss amount:0, Total Transferred size: 7821320
+13 minutes passing
+Total transfered frames:6501, miss amount:0, Total Transferred size: 8515991
+14 minutes passing
+Total transfered frames:7001, miss amount:0, Total Transferred size: 9201947
+15 minutes passing
+Total transfered frames:7501, miss amount:0, Total Transferred size: 9884301
+Total transfered frames:8001, miss amount:0, Total Transferred size: 10566359
+16 minutes passing
+17 minutes passing
+Total transfered frames:8501, miss amount:0, Total Transferred size: 11220831
+18 minutes passing
+Total transfered frames:9001, miss amount:0, Total Transferred size: 11809314
+19 minutes passing
+Total transfered frames:9501, miss amount:0, Total Transferred size: 12499042
+20 minutes passing
+Total transfered frames:10001, miss amount:0, Total Transferred size: 13260096
+21 minutes passing
+Total transfered frames:10501, miss amount:0, Total Transferred size: 14049518
+22 minutes passing
+Total transfered frames:11001, miss amount:0, Total Transferred size: 14844721
+[analysis]receive_frame is NaN, size:3072, time:2020-08-11T08:31:48.646Z
+[analysis]receive_frame is NaN, size:2168, time:2020-08-11T08:31:49.520Z
+[analysis]missing frame range 11047 - 11049, loss: 3, time:2020-08-11T08:31:49.554Z
+[analysis]receive_frame is NaN, size:3072, time:2020-08-11T08:31:49.577Z
+[analysis]receive_frame is NaN, size:3072, time:2020-08-11T08:31:52.341Z
+[analysis]receive_frame is NaN, size:2039, time:2020-08-11T08:31:52.356Z
+[analysis]missing frame range 11052 - 11056, loss: 5, time:2020-08-11T08:31:52.375Z
+[analysis]receive_frame is NaN, size:3072, time:2020-08-11T08:31:52.390Z
+[analysis]receive_frame is NaN, size:3072, time:2020-08-11T08:31:52.901Z
+[analysis]receive_frame is NaN, size:3072, time:2020-08-11T08:31:52.904Z
+[analysis]receive_frame is NaN, size:3072, time:2020-08-11T08:31:52.912Z
+[analysis]receive_frame is NaN, size:2115, time:2020-08-11T08:31:52.917Z
+[analysis]receive_frame is NaN, size:1379, time:2020-08-11T08:31:52.944Z
+[analysis]missing frame range 11058 - 11080, loss: 23, time:2020-08-11T08:31:52.970Z
+[analysis]receive_frame is NaN, size:3072, time:2020-08-11T08:31:52.983Z
+[analysis]receive_frame is NaN, size:3072, time:2020-08-11T08:31:52.998Z
+[analysis]receive_frame is NaN, size:3072, time:2020-08-11T08:31:53.001Z
+[analysis]receive_frame is NaN, size:656, time:2020-08-11T08:31:53.010Z
+[analysis]missing frame range 11082 - 11085, loss: 4, time:2020-08-11T08:31:53.051Z
+23 minutes passing
+Total transfered frames:11501, miss amount:35, Total Transferred size: 15837101
+24 minutes passing
+Total transfered frames:12001, miss amount:35, Total Transferred size: 16852502
+25 minutes passing
+Total transfered frames:12501, miss amount:35, Total Transferred size: 17750974
+26 minutes passing
+Total transfered frames:13001, miss amount:35, Total Transferred size: 18542999
+Total transfered frames:13501, miss amount:35, Total Transferred size: 19310419
+27 minutes passing
+28 minutes passing
+Total transfered frames:14001, miss amount:35, Total Transferred size: 20021306
+Total transfered frames:14501, miss amount:35, Total Transferred size: 20747131
+29 minutes passing
+30 minutes passing
+Total transfered frames:15000, miss amount:35, Total Transferred size: 21443441
+31 minutes passing
+Total transfered frames:15501, miss amount:35, Total Transferred size: 22058880
+32 minutes passing
+Total transfered frames:16001, miss amount:35, Total Transferred size: 22736862
+33 minutes passing
+Total transfered frames:16501, miss amount:35, Total Transferred size: 23440329
+34 minutes passing
+Total transfered frames:17001, miss amount:35, Total Transferred size: 24173091
+35 minutes passing
+Total transfered frames:17501, miss amount:35, Total Transferred size: 24852133
+36 minutes passing
+Total transfered frames:18001, miss amount:35, Total Transferred size: 25539476
+37 minutes passing
+Total transfered frames:18501, miss amount:35, Total Transferred size: 26155414
+Total transfered frames:19001, miss amount:35, Total Transferred size: 26776531
+38 minutes passing
+39 minutes passing
+Total transfered frames:19501, miss amount:35, Total Transferred size: 27369955
+40 minutes passing
+Total transfered frames:20001, miss amount:35, Total Transferred size: 27997136
+41 minutes passing
+Total transfered frames:20501, miss amount:35, Total Transferred size: 28623906
+42 minutes passing
+Total transfered frames:21001, miss amount:35, Total Transferred size: 29296085
+43 minutes passing
+Total transfered frames:21501, miss amount:35, Total Transferred size: 29953016
+44 minutes passing
+Total transfered frames:22001, miss amount:35, Total Transferred size: 30623238
+Total transfered frames:22501, miss amount:35, Total Transferred size: 31299255
+45 minutes passing
+46 minutes passing
+Total transfered frames:23001, miss amount:35, Total Transferred size: 31956279
+47 minutes passing
+Total transfered frames:23501, miss amount:35, Total Transferred size: 32631343
+48 minutes passing
+Total transfered frames:24001, miss amount:35, Total Transferred size: 33203050
+49 minutes passing
+Total transfered frames:24501, miss amount:35, Total Transferred size: 33802480
+50 minutes passing
+Total transfered frames:25001, miss amount:35, Total Transferred size: 34355871
+51 minutes passing
+Total transfered frames:25501, miss amount:35, Total Transferred size: 34936279
+52 minutes passing
+Total transfered frames:26001, miss amount:35, Total Transferred size: 35555767
+Total transfered frames:26501, miss amount:35, Total Transferred size: 36218178
+53 minutes passing
+54 minutes passing
+Total transfered frames:27001, miss amount:35, Total Transferred size: 36825719
+Total transfered frames:27501, miss amount:35, Total Transferred size: 37486862
+55 minutes passing
+56 minutes passing
+Total transfered frames:28001, miss amount:35, Total Transferred size: 38150815
+57 minutes passing
+Total transfered frames:28501, miss amount:35, Total Transferred size: 38796075
+58 minutes passing
+Total transfered frames:29001, miss amount:35, Total Transferred size: 39447237
+59 minutes passing
+Total transfered frames:29501, miss amount:35, Total Transferred size: 40069596
+60 minutes passing
+Total transfered frames:30001, miss amount:35, Total Transferred size: 40691840
+61 minutes passing
+Total transfered frames:30501, miss amount:35, Total Transferred size: 41342365
+62 minutes passing
+Total transfered frames:31001, miss amount:35, Total Transferred size: 41877580
+63 minutes passing
+Total transfered frames:31501, miss amount:35, Total Transferred size: 42505073
+64 minutes passing
+Total transfered frames:32001, miss amount:35, Total Transferred size: 43112982
+65 minutes passing
+Total transfered frames:32501, miss amount:35, Total Transferred size: 43780532
+66 minutes passing
+Total transfered frames:33002, miss amount:35, Total Transferred size: 44531536
+67 minutes passing
+Total transfered frames:33502, miss amount:35, Total Transferred size: 45233753
+68 minutes passing
+Total transfered frames:34001, miss amount:35, Total Transferred size: 45978373
+69 minutes passing
+Total transfered frames:34502, miss amount:35, Total Transferred size: 46692932
+70 minutes passing
+Total transfered frames:35001, miss amount:35, Total Transferred size: 47417203
+71 minutes passing
+Total transfered frames:35501, miss amount:35, Total Transferred size: 48145390
+72 minutes passing
+Total transfered frames:36002, miss amount:35, Total Transferred size: 48880744
+73 minutes passing
+Total transfered frames:36501, miss amount:35, Total Transferred size: 49615371
+74 minutes passing
+Total transfered frames:37001, miss amount:35, Total Transferred size: 50391761
+75 minutes passing
+Total transfered frames:37501, miss amount:35, Total Transferred size: 51133911
+76 minutes passing
+Total transfered frames:38001, miss amount:35, Total Transferred size: 51849809
+Total transfered frames:38501, miss amount:35, Total Transferred size: 52559066
+77 minutes passing
+78 minutes passing
+Total transfered frames:39001, miss amount:35, Total Transferred size: 53272465
+79 minutes passing
+Total transfered frames:39501, miss amount:35, Total Transferred size: 53991977
+80 minutes passing
+Total transfered frames:40002, miss amount:35, Total Transferred size: 54750852
+81 minutes passing
+Total transfered frames:40502, miss amount:35, Total Transferred size: 55480635
+82 minutes passing
+Total transfered frames:41002, miss amount:35, Total Transferred size: 56243785
+83 minutes passing
+Total transfered frames:41502, miss amount:35, Total Transferred size: 57042242
+84 minutes passing
+Total transfered frames:42002, miss amount:35, Total Transferred size: 57818458
+85 minutes passing
+Total transfered frames:42502, miss amount:35, Total Transferred size: 58600308
+86 minutes passing
+Total transfered frames:43001, miss amount:35, Total Transferred size: 59466096
+87 minutes passing
+Total transfered frames:43501, miss amount:35, Total Transferred size: 60301230
+88 minutes passing
+Total transfered frames:44001, miss amount:35, Total Transferred size: 60978309
+89 minutes passing
+Total transfered frames:44501, miss amount:35, Total Transferred size: 61642719
+90 minutes passing
+Total transfered frames:45001, miss amount:35, Total Transferred size: 62279230
+91 minutes passing
+Total transfered frames:45501, miss amount:35, Total Transferred size: 62936469
+92 minutes passing
+Total transfered frames:46001, miss amount:35, Total Transferred size: 63551626
+Total transfered frames:46501, miss amount:35, Total Transferred size: 64195800
+93 minutes passing
+94 minutes passing
+Total transfered frames:47001, miss amount:35, Total Transferred size: 64847204
+95 minutes passing
+Total transfered frames:47501, miss amount:35, Total Transferred size: 65549877
+96 minutes passing
+Total transfered frames:48001, miss amount:35, Total Transferred size: 66249385
+97 minutes passing
+Total transfered frames:48502, miss amount:35, Total Transferred size: 66931113
+98 minutes passing
+Total transfered frames:49002, miss amount:35, Total Transferred size: 67573275
+99 minutes passing
+Total transfered frames:49502, miss amount:35, Total Transferred size: 68286392
+100 minutes passing
+Total transfered frames:50002, miss amount:35, Total Transferred size: 69001526
+101 minutes passing
+Total transfered frames:50501, miss amount:35, Total Transferred size: 69692269
+102 minutes passing
+Total transfered frames:51001, miss amount:35, Total Transferred size: 70348514
+103 minutes passing
+Total transfered frames:51501, miss amount:35, Total Transferred size: 70993283
+104 minutes passing
+Total transfered frames:52001, miss amount:35, Total Transferred size: 71635122
+105 minutes passing
+Total transfered frames:52501, miss amount:35, Total Transferred size: 72304445
+106 minutes passing
+Total transfered frames:53001, miss amount:35, Total Transferred size: 72960422
+107 minutes passing
+Total transfered frames:53501, miss amount:35, Total Transferred size: 73591716
+108 minutes passing
+Total transfered frames:54001, miss amount:35, Total Transferred size: 74242046
+109 minutes passing
+Total transfered frames:54501, miss amount:35, Total Transferred size: 74876325
+110 minutes passing
+Total transfered frames:55001, miss amount:35, Total Transferred size: 75593614
+111 minutes passing
+Total transfered frames:55501, miss amount:35, Total Transferred size: 76244008
+112 minutes passing
+Total transfered frames:56001, miss amount:35, Total Transferred size: 76869406
+113 minutes passing
+Total transfered frames:56501, miss amount:35, Total Transferred size: 77455341
+114 minutes passing
+Total transfered frames:57001, miss amount:35, Total Transferred size: 78070650
+115 minutes passing
+Total transfered frames:57501, miss amount:35, Total Transferred size: 78737470
+116 minutes passing
+Total transfered frames:58001, miss amount:35, Total Transferred size: 79345460
+117 minutes passing
+Total transfered frames:58501, miss amount:35, Total Transferred size: 79960898
+118 minutes passing
+Total transfered frames:59001, miss amount:35, Total Transferred size: 80517155
+[analysis]receive_frame is NaN, size:3072, time:2020-08-11T10:08:05.756Z
+[analysis]receive_frame is NaN, size:3072, time:2020-08-11T10:08:05.768Z
+[analysis]receive_frame is NaN, size:3072, time:2020-08-11T10:08:05.793Z
+[analysis]receive_frame is NaN, size:3072, time:2020-08-11T10:08:05.805Z
+[analysis]receive_frame is NaN, size:3072, time:2020-08-11T10:08:05.824Z
+[analysis]receive_frame is NaN, size:3072, time:2020-08-11T10:08:05.826Z
+[analysis]receive_frame is NaN, size:1013, time:2020-08-11T10:08:05.828Z
+[analysis]receive_frame is NaN, size:3072, time:2020-08-11T10:08:05.869Z
+[analysis]receive_frame is NaN, size:902, time:2020-08-11T10:08:05.871Z
+[analysis]missing frame range 59169 - 59191, loss: 23, time:2020-08-11T10:08:05.875Z
+119 minutes passing
+Total transfered frames:59501, miss amount:58, Total Transferred size: 81081756
+120 minutes passing
+Total transfered frames:60002, miss amount:58, Total Transferred size: 81739033
+121 minutes passing
+Total transfered frames:60502, miss amount:58, Total Transferred size: 82466230
+122 minutes passing
+Total transfered frames:61002, miss amount:58, Total Transferred size: 83240316
+123 minutes passing
+Total transfered frames:61502, miss amount:58, Total Transferred size: 84069648
+124 minutes passing
+Total transfered frames:62002, miss amount:58, Total Transferred size: 84893563
+125 minutes passing
+Total transfered frames:62501, miss amount:58, Total Transferred size: 85659277
+126 minutes passing
+Total transfered frames:63002, miss amount:58, Total Transferred size: 86352935
+127 minutes passing
+Total transfered frames:63502, miss amount:58, Total Transferred size: 87064354
+128 minutes passing
+Total transfered frames:64002, miss amount:58, Total Transferred size: 87769379
+129 minutes passing
+Total transfered frames:64502, miss amount:58, Total Transferred size: 88427250
+130 minutes passing
+Total transfered frames:65002, miss amount:58, Total Transferred size: 89090126
+131 minutes passing
+Total transfered frames:65502, miss amount:58, Total Transferred size: 89727965
+132 minutes passing
+Total transfered frames:66002, miss amount:58, Total Transferred size: 90368614
+133 minutes passing
+Total transfered frames:66502, miss amount:58, Total Transferred size: 91027112
+134 minutes passing
+Total transfered frames:67002, miss amount:58, Total Transferred size: 91736807
+135 minutes passing
+Total transfered frames:67502, miss amount:58, Total Transferred size: 92413627
+136 minutes passing
+Total transfered frames:68002, miss amount:58, Total Transferred size: 93085683
+137 minutes passing
+Total transfered frames:68502, miss amount:58, Total Transferred size: 93780667
+138 minutes passing
+Total transfered frames:69002, miss amount:58, Total Transferred size: 94454668
+139 minutes passing
+Total transfered frames:69502, miss amount:58, Total Transferred size: 95142364
+140 minutes passing
+Total transfered frames:70002, miss amount:58, Total Transferred size: 95828634
+141 minutes passing
+Total transfered frames:70502, miss amount:58, Total Transferred size: 96502198
+142 minutes passing
+Total transfered frames:71002, miss amount:58, Total Transferred size: 97234172
+143 minutes passing
+Total transfered frames:71502, miss amount:58, Total Transferred size: 97875682
+144 minutes passing
+Total transfered frames:72002, miss amount:58, Total Transferred size: 98501654
+145 minutes passing
+Total transfered frames:72502, miss amount:58, Total Transferred size: 99122811
+146 minutes passing
+Total transfered frames:73002, miss amount:58, Total Transferred size: 99781472
+147 minutes passing
+Total transfered frames:73502, miss amount:58, Total Transferred size: 100412994
+148 minutes passing
+Total transfered frames:74002, miss amount:58, Total Transferred size: 101161986
+149 minutes passing
+Total transfered frames:74502, miss amount:58, Total Transferred size: 101887788
+150 minutes passing
+Total transfered frames:75002, miss amount:58, Total Transferred size: 102595912
+151 minutes passing
+Total transfered frames:75502, miss amount:58, Total Transferred size: 103254796
+152 minutes passing
+Total transfered frames:76002, miss amount:58, Total Transferred size: 103911432
+153 minutes passing
+Total transfered frames:76502, miss amount:58, Total Transferred size: 104713617
+154 minutes passing
+Total transfered frames:77002, miss amount:58, Total Transferred size: 105549646
+155 minutes passing
+Total transfered frames:77502, miss amount:58, Total Transferred size: 106379063
+156 minutes passing
+Total transfered frames:78002, miss amount:58, Total Transferred size: 107222755
+157 minutes passing
+Total transfered frames:78502, miss amount:58, Total Transferred size: 108021904
+158 minutes passing
+Total transfered frames:79002, miss amount:58, Total Transferred size: 108818863
+159 minutes passing
+Total transfered frames:79502, miss amount:58, Total Transferred size: 109076411
+160 minutes passing
+Total transfered frames:80002, miss amount:58, Total Transferred size: 109114411
+161 minutes passing
+Total transfered frames:80502, miss amount:58, Total Transferred size: 109152411
+162 minutes passing
+Total transfered frames:81002, miss amount:58, Total Transferred size: 109190411
+163 minutes passing
+Total transfered frames:81502, miss amount:58, Total Transferred size: 109228411
+164 minutes passing
+Total transfered frames:82002, miss amount:58, Total Transferred size: 109266411
+165 minutes passing
+Total transfered frames:82502, miss amount:58, Total Transferred size: 109304411
+166 minutes passing
+Total transfered frames:83002, miss amount:58, Total Transferred size: 109342411
+167 minutes passing
+Total transfered frames:83502, miss amount:58, Total Transferred size: 109380411
+168 minutes passing
+Total transfered frames:84002, miss amount:58, Total Transferred size: 109418411
+169 minutes passing
+Total transfered frames:84502, miss amount:58, Total Transferred size: 109456411
+170 minutes passing
+Total transfered frames:85002, miss amount:58, Total Transferred size: 109494411
+171 minutes passing
+Total transfered frames:85502, miss amount:58, Total Transferred size: 109532411
+172 minutes passing
+Total transfered frames:86002, miss amount:58, Total Transferred size: 109570411
+173 minutes passing
+Total transfered frames:86502, miss amount:58, Total Transferred size: 109608411
+174 minutes passing
+Total transfered frames:87002, miss amount:58, Total Transferred size: 109646411
+175 minutes passing
+Total transfered frames:87502, miss amount:58, Total Transferred size: 109684411
+176 minutes passing
+Total transfered frames:88002, miss amount:58, Total Transferred size: 109722411
+177 minutes passing
+Total transfered frames:88502, miss amount:58, Total Transferred size: 109760411
+178 minutes passing
+Total transfered frames:89002, miss amount:58, Total Transferred size: 109798411
+179 minutes passing
+Total transfered frames:89502, miss amount:58, Total Transferred size: 109836411
+180 minutes passing
+Total transfered frames:90002, miss amount:58, Total Transferred size: 109874411
+181 minutes passing
+Total transfered frames:90502, miss amount:58, Total Transferred size: 109912411
+Total transfered frames:91002, miss amount:58, Total Transferred size: 109950411
+182 minutes passing
+183 minutes passing
+Total transfered frames:91502, miss amount:58, Total Transferred size: 109988411
+184 minutes passing
+Total transfered frames:92002, miss amount:58, Total Transferred size: 110026411
+185 minutes passing
+Total transfered frames:92502, miss amount:58, Total Transferred size: 110064411
+186 minutes passing
+Total transfered frames:93002, miss amount:58, Total Transferred size: 110102411
+187 minutes passing
+Total transfered frames:93502, miss amount:58, Total Transferred size: 110140411
+188 minutes passing
+Total transfered frames:94002, miss amount:58, Total Transferred size: 110178411
+189 minutes passing
+Total transfered frames:94502, miss amount:58, Total Transferred size: 110216411
+190 minutes passing
+Total transfered frames:95002, miss amount:58, Total Transferred size: 110254411
+191 minutes passing
+Total transfered frames:95502, miss amount:58, Total Transferred size: 110292411
+192 minutes passing
+Total transfered frames:96002, miss amount:58, Total Transferred size: 110330411
+193 minutes passing
+Total transfered frames:96502, miss amount:58, Total Transferred size: 110368411
+194 minutes passing
+Total transfered frames:97002, miss amount:58, Total Transferred size: 110406411
+195 minutes passing
+Total transfered frames:97502, miss amount:58, Total Transferred size: 110444411
+196 minutes passing
+Total transfered frames:98002, miss amount:58, Total Transferred size: 110482411
+197 minutes passing
+Total transfered frames:98502, miss amount:58, Total Transferred size: 110520411
+198 minutes passing
+Total transfered frames:99002, miss amount:58, Total Transferred size: 110558411
+199 minutes passing
+Total transfered frames:99502, miss amount:58, Total Transferred size: 110596411
+200 minutes passing
+Total transfered frames:100002, miss amount:58, Total Transferred size: 110634411
+201 minutes passing
+Total transfered frames:100502, miss amount:58, Total Transferred size: 110672411
+202 minutes passing
+Total transfered frames:101002, miss amount:58, Total Transferred size: 110710411
+203 minutes passing
+Total transfered frames:101502, miss amount:58, Total Transferred size: 110748411
+204 minutes passing
+Total transfered frames:102002, miss amount:58, Total Transferred size: 110786411
+205 minutes passing
+Total transfered frames:102502, miss amount:58, Total Transferred size: 110824411
+206 minutes passing
+Total transfered frames:103002, miss amount:58, Total Transferred size: 110862411
+207 minutes passing
+Total transfered frames:103502, miss amount:58, Total Transferred size: 110900411
+208 minutes passing
+Total transfered frames:104002, miss amount:58, Total Transferred size: 110938411
+209 minutes passing
+Total transfered frames:104502, miss amount:58, Total Transferred size: 110976411
+210 minutes passing
+Total transfered frames:105002, miss amount:58, Total Transferred size: 111014411
+211 minutes passing
+Total transfered frames:105502, miss amount:58, Total Transferred size: 111052411
+212 minutes passing
+Total transfered frames:106002, miss amount:58, Total Transferred size: 111090411
+213 minutes passing
+Total transfered frames:106502, miss amount:58, Total Transferred size: 111128411
+214 minutes passing
+Total transfered frames:107002, miss amount:58, Total Transferred size: 111166411
+215 minutes passing
+Total transfered frames:107502, miss amount:58, Total Transferred size: 111204411
+216 minutes passing
+Total transfered frames:108002, miss amount:58, Total Transferred size: 111242411
+217 minutes passing
+Total transfered frames:108502, miss amount:58, Total Transferred size: 111280411
+218 minutes passing
+Total transfered frames:109002, miss amount:58, Total Transferred size: 111318411
+219 minutes passing
+Total transfered frames:109502, miss amount:58, Total Transferred size: 111356411
+220 minutes passing
+Total transfered frames:110002, miss amount:58, Total Transferred size: 111394411
+221 minutes passing
+Total transfered frames:110493, miss amount:58, Total Transferred size: 111431727
+222 minutes passing
+Total transfered frames:111002, miss amount:58, Total Transferred size: 111470411
+223 minutes passing
+Total transfered frames:111502, miss amount:58, Total Transferred size: 111508411
+224 minutes passing
+Total transfered frames:112002, miss amount:58, Total Transferred size: 111546411
+225 minutes passing
+Total transfered frames:112492, miss amount:58, Total Transferred size: 111583651
+226 minutes passing
+Total transfered frames:113002, miss amount:58, Total Transferred size: 111622411
+227 minutes passing
+Total transfered frames:113502, miss amount:58, Total Transferred size: 111660411
+228 minutes passing
+Total transfered frames:114002, miss amount:58, Total Transferred size: 111698411
+229 minutes passing
+Total transfered frames:114502, miss amount:58, Total Transferred size: 111736411
+230 minutes passing
+Total transfered frames:115002, miss amount:58, Total Transferred size: 111774411
+231 minutes passing
+Total transfered frames:115502, miss amount:58, Total Transferred size: 111812411
+232 minutes passing
+Total transfered frames:116002, miss amount:58, Total Transferred size: 111850411
+233 minutes passing
+Total transfered frames:116502, miss amount:58, Total Transferred size: 111888411
+234 minutes passing
+Total transfered frames:117002, miss amount:58, Total Transferred size: 111926411
+235 minutes passing
+Total transfered frames:117502, miss amount:58, Total Transferred size: 111964411
+236 minutes passing
+Total transfered frames:118002, miss amount:58, Total Transferred size: 112002411
+237 minutes passing
+Total transfered frames:118502, miss amount:58, Total Transferred size: 112040411
+238 minutes passing
+Total transfered frames:119002, miss amount:58, Total Transferred size: 112078411
+239 minutes passing
+Total transfered frames:119502, miss amount:58, Total Transferred size: 112116411
+240 minutes passing
+Total transfered frames:120002, miss amount:58, Total Transferred size: 112154411
+241 minutes passing
+Total transfered frames:120502, miss amount:58, Total Transferred size: 112192411
+242 minutes passing
+Total transfered frames:121002, miss amount:58, Total Transferred size: 112230411
+243 minutes passing
+Total transfered frames:121502, miss amount:58, Total Transferred size: 112268411
+244 minutes passing
+Total transfered frames:122002, miss amount:58, Total Transferred size: 112306411
+245 minutes passing
+Total transfered frames:122502, miss amount:58, Total Transferred size: 112344411
+246 minutes passing
+Total transfered frames:123002, miss amount:58, Total Transferred size: 112382411
+247 minutes passing
+Total transfered frames:123502, miss amount:58, Total Transferred size: 112420411
+248 minutes passing
+Total transfered frames:124002, miss amount:58, Total Transferred size: 112458411
+249 minutes passing
+Total transfered frames:124502, miss amount:58, Total Transferred size: 112496411
+250 minutes passing
+Total transfered frames:125002, miss amount:58, Total Transferred size: 112534411
+251 minutes passing
+Total transfered frames:125502, miss amount:58, Total Transferred size: 112572411
+252 minutes passing
+Total transfered frames:126002, miss amount:58, Total Transferred size: 112610411
+253 minutes passing
+Total transfered frames:126502, miss amount:58, Total Transferred size: 112648411
+254 minutes passing
+Total transfered frames:127002, miss amount:58, Total Transferred size: 112686411
+255 minutes passing
+Total transfered frames:127502, miss amount:58, Total Transferred size: 112724411
+256 minutes passing
+Total transfered frames:128002, miss amount:58, Total Transferred size: 112762411
+257 minutes passing
+Total transfered frames:128502, miss amount:58, Total Transferred size: 112800411
+258 minutes passing
+Total transfered frames:129002, miss amount:58, Total Transferred size: 112838411
+259 minutes passing
+Total transfered frames:129502, miss amount:58, Total Transferred size: 112876411
+260 minutes passing
+Total transfered frames:130002, miss amount:58, Total Transferred size: 112914411
+261 minutes passing
+Total transfered frames:130502, miss amount:58, Total Transferred size: 112952411
+262 minutes passing
+Total transfered frames:131002, miss amount:58, Total Transferred size: 112990411
+263 minutes passing
+Total transfered frames:131502, miss amount:58, Total Transferred size: 113028411
+264 minutes passing
+Total transfered frames:132002, miss amount:58, Total Transferred size: 113066411
+265 minutes passing
+Total transfered frames:132502, miss amount:58, Total Transferred size: 113104411
+266 minutes passing
+Total transfered frames:133002, miss amount:58, Total Transferred size: 113142411
+267 minutes passing
+Total transfered frames:133502, miss amount:58, Total Transferred size: 113180411
+268 minutes passing
+Total transfered frames:134002, miss amount:58, Total Transferred size: 113218411
+269 minutes passing
+Total transfered frames:134502, miss amount:58, Total Transferred size: 113256411
+270 minutes passing
+Total transfered frames:135002, miss amount:58, Total Transferred size: 113294411
+271 minutes passing
+Total transfered frames:135502, miss amount:58, Total Transferred size: 113332411
+272 minutes passing
+Total transfered frames:136002, miss amount:58, Total Transferred size: 113370411
+273 minutes passing
+Total transfered frames:136502, miss amount:58, Total Transferred size: 113408411
+274 minutes passing
+Total transfered frames:137002, miss amount:58, Total Transferred size: 113446411
+275 minutes passing
+Total transfered frames:137502, miss amount:58, Total Transferred size: 113484411
+276 minutes passing
+Total transfered frames:138002, miss amount:58, Total Transferred size: 113522411
+277 minutes passing
+Total transfered frames:138502, miss amount:58, Total Transferred size: 113560411
+278 minutes passing
+Total transfered frames:139002, miss amount:58, Total Transferred size: 113598411
+279 minutes passing
+Total transfered frames:139502, miss amount:58, Total Transferred size: 113636411
+280 minutes passing
+Total transfered frames:140002, miss amount:58, Total Transferred size: 113674411
+281 minutes passing
+Total transfered frames:140502, miss amount:58, Total Transferred size: 113712411
+282 minutes passing
+Total transfered frames:141002, miss amount:58, Total Transferred size: 113750411
+283 minutes passing
+Total transfered frames:141502, miss amount:58, Total Transferred size: 113788411
+284 minutes passing
+Total transfered frames:142002, miss amount:58, Total Transferred size: 113826411
+285 minutes passing
+Total transfered frames:142502, miss amount:58, Total Transferred size: 113864411
+286 minutes passing
+Total transfered frames:143002, miss amount:58, Total Transferred size: 113902411
+287 minutes passing
+Total transfered frames:143502, miss amount:58, Total Transferred size: 113940411
+288 minutes passing
+Total transfered frames:144002, miss amount:58, Total Transferred size: 113978411
+289 minutes passing
+Total transfered frames:144502, miss amount:58, Total Transferred size: 114016411
+290 minutes passing
+Total transfered frames:145002, miss amount:58, Total Transferred size: 114054411
+291 minutes passing
+Total transfered frames:145502, miss amount:58, Total Transferred size: 114092411
+292 minutes passing
+Total transfered frames:146002, miss amount:58, Total Transferred size: 114130411
+293 minutes passing
+Total transfered frames:146502, miss amount:58, Total Transferred size: 114168411
+294 minutes passing
+Total transfered frames:147002, miss amount:58, Total Transferred size: 114206411
+295 minutes passing
+Total transfered frames:147502, miss amount:58, Total Transferred size: 114244411
+296 minutes passing
+Total transfered frames:148002, miss amount:58, Total Transferred size: 114282411
+297 minutes passing
+Total transfered frames:148502, miss amount:58, Total Transferred size: 114320411
+298 minutes passing
+Total transfered frames:149002, miss amount:58, Total Transferred size: 114358411
+299 minutes passing
+Total transfered frames:149502, miss amount:58, Total Transferred size: 114396411
+300 minutes passing
+Total transfered frames:150002, miss amount:58, Total Transferred size: 114434411
+301 minutes passing
+Total transfered frames:150502, miss amount:58, Total Transferred size: 114472411
+302 minutes passing
+Total transfered frames:151002, miss amount:58, Total Transferred size: 114510411
+303 minutes passing
+Total transfered frames:151502, miss amount:58, Total Transferred size: 114548411
+304 minutes passing
+Total transfered frames:152002, miss amount:58, Total Transferred size: 114586411
+305 minutes passing
+Total transfered frames:152502, miss amount:58, Total Transferred size: 114624411
+306 minutes passing
+Total transfered frames:153002, miss amount:58, Total Transferred size: 114662411
+307 minutes passing
+Total transfered frames:153502, miss amount:58, Total Transferred size: 114700411
+308 minutes passing
+Total transfered frames:154002, miss amount:58, Total Transferred size: 114738411
+309 minutes passing
+Total transfered frames:154502, miss amount:58, Total Transferred size: 114776411
+310 minutes passing
+Total transfered frames:155002, miss amount:58, Total Transferred size: 114814411
+311 minutes passing
+Total transfered frames:155502, miss amount:58, Total Transferred size: 114852411
+312 minutes passing
+Total transfered frames:156002, miss amount:58, Total Transferred size: 114890411
+313 minutes passing
+Total transfered frames:156502, miss amount:58, Total Transferred size: 114928411
+314 minutes passing
+Total transfered frames:157002, miss amount:58, Total Transferred size: 114966411
+315 minutes passing
+Total transfered frames:157502, miss amount:58, Total Transferred size: 115004411
+316 minutes passing
+Total transfered frames:158002, miss amount:58, Total Transferred size: 115042411
+317 minutes passing
+Total transfered frames:158502, miss amount:58, Total Transferred size: 115080411
+318 minutes passing
+Total transfered frames:159002, miss amount:58, Total Transferred size: 115118411
+319 minutes passing
+Total transfered frames:159502, miss amount:58, Total Transferred size: 115156411
+320 minutes passing
+Total transfered frames:160002, miss amount:58, Total Transferred size: 115194411
+321 minutes passing
+Total transfered frames:160502, miss amount:58, Total Transferred size: 115232411
+322 minutes passing
+Total transfered frames:161002, miss amount:58, Total Transferred size: 115270411
+323 minutes passing
+Total transfered frames:161502, miss amount:58, Total Transferred size: 115308411
+324 minutes passing
+Total transfered frames:162002, miss amount:58, Total Transferred size: 115346411
+325 minutes passing
+Total transfered frames:162502, miss amount:58, Total Transferred size: 115384411
+326 minutes passing
+Total transfered frames:163002, miss amount:58, Total Transferred size: 115422411
+327 minutes passing
+Total transfered frames:163502, miss amount:58, Total Transferred size: 115460411
+328 minutes passing
+Total transfered frames:164002, miss amount:58, Total Transferred size: 115498411
+329 minutes passing
+Total transfered frames:164502, miss amount:58, Total Transferred size: 115536411
+330 minutes passing
+Total transfered frames:165002, miss amount:58, Total Transferred size: 115574411
+331 minutes passing
+Total transfered frames:165502, miss amount:58, Total Transferred size: 115612411
+332 minutes passing
+Total transfered frames:166002, miss amount:58, Total Transferred size: 115650411
+333 minutes passing
+Total transfered frames:166502, miss amount:58, Total Transferred size: 115688411
+334 minutes passing
+Total transfered frames:167002, miss amount:58, Total Transferred size: 115726411
+335 minutes passing
+Total transfered frames:167502, miss amount:58, Total Transferred size: 115764411
+336 minutes passing
+Total transfered frames:168002, miss amount:58, Total Transferred size: 115802411
+337 minutes passing
+Total transfered frames:168502, miss amount:58, Total Transferred size: 115840411
+338 minutes passing
+Total transfered frames:169002, miss amount:58, Total Transferred size: 115878411
+339 minutes passing
+Total transfered frames:169502, miss amount:58, Total Transferred size: 115916411
+340 minutes passing
+Total transfered frames:170002, miss amount:58, Total Transferred size: 115954411
+341 minutes passing
+Total transfered frames:170502, miss amount:58, Total Transferred size: 115992411
+342 minutes passing
+Total transfered frames:171002, miss amount:58, Total Transferred size: 116030411
+343 minutes passing
+Total transfered frames:171502, miss amount:58, Total Transferred size: 116068411
+344 minutes passing
+Total transfered frames:172002, miss amount:58, Total Transferred size: 116106411
+345 minutes passing
+Total transfered frames:172502, miss amount:58, Total Transferred size: 116144411
+346 minutes passing
+Total transfered frames:173002, miss amount:58, Total Transferred size: 116182411
+347 minutes passing
+Total transfered frames:173502, miss amount:58, Total Transferred size: 116220411
+348 minutes passing
+Total transfered frames:174002, miss amount:58, Total Transferred size: 116258411
+349 minutes passing
+Total transfered frames:174502, miss amount:58, Total Transferred size: 116296411
+350 minutes passing
+Total transfered frames:175002, miss amount:58, Total Transferred size: 116334411
+351 minutes passing
+Total transfered frames:175502, miss amount:58, Total Transferred size: 116372411
+352 minutes passing
+Total transfered frames:176002, miss amount:58, Total Transferred size: 116410411
+353 minutes passing
+Total transfered frames:176502, miss amount:58, Total Transferred size: 116448411
+354 minutes passing
+Total transfered frames:177002, miss amount:58, Total Transferred size: 116486411
+355 minutes passing
+Total transfered frames:177502, miss amount:58, Total Transferred size: 116524411
+356 minutes passing
+Total transfered frames:178003, miss amount:58, Total Transferred size: 116562487
+357 minutes passing
+Total transfered frames:178503, miss amount:58, Total Transferred size: 116600487
+358 minutes passing
+Total transfered frames:179003, miss amount:58, Total Transferred size: 116638487
+359 minutes passing
+Total transfered frames:179503, miss amount:58, Total Transferred size: 116676487
+360 minutes passing
+Total transfered frames:180003, miss amount:58, Total Transferred size: 116714487
+361 minutes passing
+Total transfered frames:180503, miss amount:58, Total Transferred size: 116752487
+362 minutes passing
+Total transfered frames:181003, miss amount:58, Total Transferred size: 116790487
+363 minutes passing
+Total transfered frames:181503, miss amount:58, Total Transferred size: 116828487
+364 minutes passing
+Total transfered frames:182003, miss amount:58, Total Transferred size: 116866487
+365 minutes passing
+Total transfered frames:182503, miss amount:58, Total Transferred size: 116904487
+366 minutes passing
+Total transfered frames:183003, miss amount:58, Total Transferred size: 116942487
+367 minutes passing
+Total transfered frames:183503, miss amount:58, Total Transferred size: 116980487
+368 minutes passing
+Total transfered frames:184003, miss amount:58, Total Transferred size: 117018487
+369 minutes passing
+Total transfered frames:184503, miss amount:58, Total Transferred size: 117056487
+370 minutes passing
+Total transfered frames:185003, miss amount:58, Total Transferred size: 117094487
+371 minutes passing
+Total transfered frames:185503, miss amount:58, Total Transferred size: 117132487
+372 minutes passing
+Total transfered frames:186003, miss amount:58, Total Transferred size: 117170487
+373 minutes passing
+Total transfered frames:186503, miss amount:58, Total Transferred size: 117208487
+374 minutes passing
+Total transfered frames:187003, miss amount:58, Total Transferred size: 117246487
+375 minutes passing
+Total transfered frames:187503, miss amount:58, Total Transferred size: 117284487
+376 minutes passing
+Total transfered frames:188003, miss amount:58, Total Transferred size: 117322487
+377 minutes passing
+Total transfered frames:188503, miss amount:58, Total Transferred size: 117360487
+378 minutes passing
+Total transfered frames:189003, miss amount:58, Total Transferred size: 117398487
+379 minutes passing
+Total transfered frames:189503, miss amount:58, Total Transferred size: 117436487
+380 minutes passing
+Total transfered frames:190003, miss amount:58, Total Transferred size: 117474487
+381 minutes passing
+Total transfered frames:190503, miss amount:58, Total Transferred size: 117512487
+382 minutes passing
+Total transfered frames:191003, miss amount:58, Total Transferred size: 117550487
+383 minutes passing
+Total transfered frames:191503, miss amount:58, Total Transferred size: 117588487
+384 minutes passing
+Total transfered frames:192003, miss amount:58, Total Transferred size: 117626487
+385 minutes passing
+Total transfered frames:192503, miss amount:58, Total Transferred size: 117664487
+386 minutes passing
+Total transfered frames:193003, miss amount:58, Total Transferred size: 117702487
+387 minutes passing
+Total transfered frames:193503, miss amount:58, Total Transferred size: 117740487
+388 minutes passing
+Total transfered frames:194003, miss amount:58, Total Transferred size: 117778487
+389 minutes passing
+Total transfered frames:194503, miss amount:58, Total Transferred size: 117816487
+390 minutes passing
+Total transfered frames:195003, miss amount:58, Total Transferred size: 117854487
+391 minutes passing
+Total transfered frames:195503, miss amount:58, Total Transferred size: 117892487
+392 minutes passing
+Total transfered frames:195987, miss amount:58, Total Transferred size: 117929271
+393 minutes passing
+Total transfered frames:196503, miss amount:58, Total Transferred size: 117968487
+394 minutes passing
+Total transfered frames:197003, miss amount:58, Total Transferred size: 118006487
+395 minutes passing
+Total transfered frames:197503, miss amount:58, Total Transferred size: 118044487
+396 minutes passing
+Total transfered frames:198003, miss amount:58, Total Transferred size: 118082487
+397 minutes passing
+Total transfered frames:198503, miss amount:58, Total Transferred size: 118120487
+398 minutes passing
+Total transfered frames:199003, miss amount:58, Total Transferred size: 118158487
+399 minutes passing
+Total transfered frames:199503, miss amount:58, Total Transferred size: 118196487
+400 minutes passing
+Total transfered frames:200003, miss amount:58, Total Transferred size: 118234487
+401 minutes passing
+Total transfered frames:200503, miss amount:58, Total Transferred size: 118272487
+402 minutes passing
+Total transfered frames:201003, miss amount:58, Total Transferred size: 118310487
+403 minutes passing
+Total transfered frames:201503, miss amount:58, Total Transferred size: 118348487
+404 minutes passing
+Total transfered frames:202003, miss amount:58, Total Transferred size: 118386487
+405 minutes passing
+Total transfered frames:202503, miss amount:58, Total Transferred size: 118424487
+406 minutes passing
+Total transfered frames:202994, miss amount:58, Total Transferred size: 118461803
+407 minutes passing
+Total transfered frames:203503, miss amount:58, Total Transferred size: 118500487
+408 minutes passing
+Total transfered frames:204003, miss amount:58, Total Transferred size: 118538487
+409 minutes passing
+Total transfered frames:204503, miss amount:58, Total Transferred size: 118576487
+410 minutes passing
+Total transfered frames:205003, miss amount:58, Total Transferred size: 118614487
+411 minutes passing
+Total transfered frames:205503, miss amount:58, Total Transferred size: 118652487
+412 minutes passing
+Total transfered frames:206003, miss amount:58, Total Transferred size: 118690487
+413 minutes passing
+Total transfered frames:206503, miss amount:58, Total Transferred size: 118728487
+414 minutes passing
+Total transfered frames:207003, miss amount:58, Total Transferred size: 118766487
+415 minutes passing
+Total transfered frames:207503, miss amount:58, Total Transferred size: 118804487
+416 minutes passing
+Total transfered frames:208003, miss amount:58, Total Transferred size: 118842487
+417 minutes passing
+Total transfered frames:208503, miss amount:58, Total Transferred size: 118880487
+418 minutes passing
+Total transfered frames:209003, miss amount:58, Total Transferred size: 118918487
+419 minutes passing
+Total transfered frames:209503, miss amount:58, Total Transferred size: 118956487
+420 minutes passing
+Total transfered frames:210003, miss amount:58, Total Transferred size: 118994487
+421 minutes passing
+Total transfered frames:210503, miss amount:58, Total Transferred size: 119032487
+422 minutes passing
+Total transfered frames:211003, miss amount:58, Total Transferred size: 119070487
+423 minutes passing
+Total transfered frames:211503, miss amount:58, Total Transferred size: 119108487
+424 minutes passing
+Total transfered frames:212003, miss amount:58, Total Transferred size: 119146487
+425 minutes passing
+Total transfered frames:212503, miss amount:58, Total Transferred size: 119184487
+426 minutes passing
+Total transfered frames:213003, miss amount:58, Total Transferred size: 119222487
+427 minutes passing
+Total transfered frames:213503, miss amount:58, Total Transferred size: 119260487
+428 minutes passing
+Total transfered frames:214003, miss amount:58, Total Transferred size: 119298487
+429 minutes passing
+Total transfered frames:214503, miss amount:58, Total Transferred size: 119336487
+430 minutes passing
+Total transfered frames:214995, miss amount:58, Total Transferred size: 119373879
+431 minutes passing
+Total transfered frames:215503, miss amount:58, Total Transferred size: 119412487
+432 minutes passing
+Total transfered frames:216003, miss amount:58, Total Transferred size: 119450487
+433 minutes passing
+Total transfered frames:216503, miss amount:58, Total Transferred size: 119488487
+434 minutes passing
+Total transfered frames:217003, miss amount:58, Total Transferred size: 119526487
+435 minutes passing
+Total transfered frames:217503, miss amount:58, Total Transferred size: 119564487
+436 minutes passing
+Total transfered frames:218003, miss amount:58, Total Transferred size: 119602487
+437 minutes passing
+Total transfered frames:218503, miss amount:58, Total Transferred size: 119640487
+438 minutes passing
+Total transfered frames:219003, miss amount:58, Total Transferred size: 119678487
+439 minutes passing
+Total transfered frames:219503, miss amount:58, Total Transferred size: 119716487
+440 minutes passing
+Total transfered frames:220003, miss amount:58, Total Transferred size: 119754487
+441 minutes passing
+Total transfered frames:220503, miss amount:58, Total Transferred size: 119792487
+442 minutes passing
+Total transfered frames:221003, miss amount:58, Total Transferred size: 119830487
+443 minutes passing
+Total transfered frames:221503, miss amount:58, Total Transferred size: 119868487
+444 minutes passing
+Total transfered frames:222003, miss amount:58, Total Transferred size: 119906487
+445 minutes passing
+Total transfered frames:222503, miss amount:58, Total Transferred size: 119944487
+446 minutes passing
+Total transfered frames:223003, miss amount:58, Total Transferred size: 119982487
+447 minutes passing
+Total transfered frames:223503, miss amount:58, Total Transferred size: 120020487
+448 minutes passing
+Total transfered frames:224003, miss amount:58, Total Transferred size: 120058487
+449 minutes passing
+Total transfered frames:224503, miss amount:58, Total Transferred size: 120096487
+450 minutes passing
+Total transfered frames:225003, miss amount:58, Total Transferred size: 120134487
+451 minutes passing
+Total transfered frames:225503, miss amount:58, Total Transferred size: 120172487
+452 minutes passing
+Total transfered frames:226003, miss amount:58, Total Transferred size: 120210487
+453 minutes passing
+Total transfered frames:226503, miss amount:58, Total Transferred size: 120248487
+454 minutes passing
+Total transfered frames:227003, miss amount:58, Total Transferred size: 120286487
+455 minutes passing
+Total transfered frames:227503, miss amount:58, Total Transferred size: 120324487
+456 minutes passing
+Total transfered frames:228003, miss amount:58, Total Transferred size: 120362487
+457 minutes passing
+Total transfered frames:228503, miss amount:58, Total Transferred size: 120400487
+458 minutes passing
+Total transfered frames:229003, miss amount:58, Total Transferred size: 120438487
+459 minutes passing
+Total transfered frames:229503, miss amount:58, Total Transferred size: 120476487
+460 minutes passing
+Total transfered frames:230003, miss amount:58, Total Transferred size: 120514487
+461 minutes passing
+Total transfered frames:230503, miss amount:58, Total Transferred size: 120552487
+462 minutes passing
+Total transfered frames:231003, miss amount:58, Total Transferred size: 120590487
+463 minutes passing
+Total transfered frames:231503, miss amount:58, Total Transferred size: 120628487
+464 minutes passing
+Total transfered frames:232003, miss amount:58, Total Transferred size: 120666487
+465 minutes passing
+Total transfered frames:232503, miss amount:58, Total Transferred size: 120704487
+466 minutes passing
+Total transfered frames:233003, miss amount:58, Total Transferred size: 120742487
+467 minutes passing
+Total transfered frames:233503, miss amount:58, Total Transferred size: 120780487
+468 minutes passing
+Total transfered frames:234003, miss amount:58, Total Transferred size: 120818487
+469 minutes passing
+Total transfered frames:234503, miss amount:58, Total Transferred size: 120856487
+470 minutes passing
+Total transfered frames:235003, miss amount:58, Total Transferred size: 120894487
+471 minutes passing
+Total transfered frames:235503, miss amount:58, Total Transferred size: 120932487
+472 minutes passing
+Total transfered frames:236003, miss amount:58, Total Transferred size: 120970487
+473 minutes passing
+Total transfered frames:236503, miss amount:58, Total Transferred size: 121008487
+474 minutes passing
+Total transfered frames:237003, miss amount:58, Total Transferred size: 121046487
+475 minutes passing
+Total transfered frames:237503, miss amount:58, Total Transferred size: 121084487
+476 minutes passing
+Total transfered frames:238003, miss amount:58, Total Transferred size: 121122487
+477 minutes passing
+Total transfered frames:238503, miss amount:58, Total Transferred size: 121160487
+478 minutes passing
+Total transfered frames:239003, miss amount:58, Total Transferred size: 121198487
+479 minutes passing
+Total transfered frames:239503, miss amount:58, Total Transferred size: 121236487
+480 minutes passing
+Total transfered frames:240003, miss amount:58, Total Transferred size: 121274487
+481 minutes passing
+Total transfered frames:240503, miss amount:58, Total Transferred size: 121312487
+482 minutes passing
+Total transfered frames:241003, miss amount:58, Total Transferred size: 121350487
+483 minutes passing
+Total transfered frames:241503, miss amount:58, Total Transferred size: 121388487
+484 minutes passing
+Total transfered frames:242003, miss amount:58, Total Transferred size: 121426487
+485 minutes passing
+Total transfered frames:242503, miss amount:58, Total Transferred size: 121464487
+486 minutes passing
+Total transfered frames:243003, miss amount:58, Total Transferred size: 121502523
+487 minutes passing
+Total transfered frames:243503, miss amount:58, Total Transferred size: 121540523
+488 minutes passing
+Total transfered frames:244003, miss amount:58, Total Transferred size: 121578523
+489 minutes passing
+Total transfered frames:244503, miss amount:58, Total Transferred size: 121616523
+490 minutes passing
+Total transfered frames:245003, miss amount:58, Total Transferred size: 121654523
+491 minutes passing
+Total transfered frames:245503, miss amount:58, Total Transferred size: 121692523
+492 minutes passing
+Total transfered frames:246003, miss amount:58, Total Transferred size: 121730523
+493 minutes passing
+Total transfered frames:246503, miss amount:58, Total Transferred size: 121768523
+494 minutes passing
+Total transfered frames:247003, miss amount:58, Total Transferred size: 121806523
+495 minutes passing
+Total transfered frames:247503, miss amount:58, Total Transferred size: 121844523
+496 minutes passing
+Total transfered frames:248003, miss amount:58, Total Transferred size: 121882523
+497 minutes passing
+Total transfered frames:248503, miss amount:58, Total Transferred size: 121920523
+498 minutes passing
+Total transfered frames:249003, miss amount:58, Total Transferred size: 121958523
+499 minutes passing
+Total transfered frames:249503, miss amount:58, Total Transferred size: 121996523
+Total transfered frames:250003, miss amount:58, Total Transferred size: 122034523
+500 minutes passing
+501 minutes passing
+Total transfered frames:250503, miss amount:58, Total Transferred size: 122072523
+502 minutes passing
+Total transfered frames:251003, miss amount:58, Total Transferred size: 122110523
+503 minutes passing
+Total transfered frames:251503, miss amount:58, Total Transferred size: 122148523
+504 minutes passing
+Total transfered frames:252003, miss amount:58, Total Transferred size: 122186523
+505 minutes passing
+Total transfered frames:252503, miss amount:58, Total Transferred size: 122224523
+506 minutes passing
+Total transfered frames:253003, miss amount:58, Total Transferred size: 122262523
+507 minutes passing
+Total transfered frames:253478, miss amount:58, Total Transferred size: 122298623
+508 minutes passing
+Total transfered frames:254003, miss amount:58, Total Transferred size: 122338523
+509 minutes passing
+Total transfered frames:254503, miss amount:58, Total Transferred size: 122376523
+510 minutes passing
+Total transfered frames:255003, miss amount:58, Total Transferred size: 122414523
+511 minutes passing
+Total transfered frames:255503, miss amount:58, Total Transferred size: 122452523
+512 minutes passing
+Total transfered frames:256003, miss amount:58, Total Transferred size: 122490523
+513 minutes passing
+Total transfered frames:256503, miss amount:58, Total Transferred size: 122528523
+514 minutes passing
+Total transfered frames:257003, miss amount:58, Total Transferred size: 122566523
+515 minutes passing
+Total transfered frames:257503, miss amount:58, Total Transferred size: 122604523
+516 minutes passing
+Total transfered frames:258003, miss amount:58, Total Transferred size: 122642523
+517 minutes passing
+Total transfered frames:258503, miss amount:58, Total Transferred size: 122680523
+518 minutes passing
+Total transfered frames:259003, miss amount:58, Total Transferred size: 122718523
+519 minutes passing
+Total transfered frames:259503, miss amount:58, Total Transferred size: 122756523
+520 minutes passing
+Total transfered frames:260003, miss amount:58, Total Transferred size: 122794523
+521 minutes passing
+Total transfered frames:260503, miss amount:58, Total Transferred size: 122832523
+522 minutes passing
+Total transfered frames:261003, miss amount:58, Total Transferred size: 122870523
+523 minutes passing
+Total transfered frames:261503, miss amount:58, Total Transferred size: 122908523
+524 minutes passing
+Total transfered frames:262003, miss amount:58, Total Transferred size: 122946523
+525 minutes passing
+Total transfered frames:262503, miss amount:58, Total Transferred size: 122984523
+526 minutes passing
+Total transfered frames:263003, miss amount:58, Total Transferred size: 123022523
+Total transfered frames:263479, miss amount:58, Total Transferred size: 123058699
+527 minutes passing
+528 minutes passing
+Total transfered frames:264003, miss amount:58, Total Transferred size: 123098523
+529 minutes passing
+Total transfered frames:264503, miss amount:58, Total Transferred size: 123136523
+530 minutes passing
+Total transfered frames:265003, miss amount:58, Total Transferred size: 123174523
+531 minutes passing
+Total transfered frames:265503, miss amount:58, Total Transferred size: 123212523
+532 minutes passing
+Total transfered frames:266003, miss amount:58, Total Transferred size: 123250523
+533 minutes passing
+Total transfered frames:266503, miss amount:58, Total Transferred size: 123288523
+534 minutes passing
+Total transfered frames:267003, miss amount:58, Total Transferred size: 123326523
+535 minutes passing
+Total transfered frames:267503, miss amount:58, Total Transferred size: 123364523
+536 minutes passing
+Total transfered frames:268003, miss amount:58, Total Transferred size: 123402523
+537 minutes passing
+Total transfered frames:268503, miss amount:58, Total Transferred size: 123440523
+538 minutes passing
+Total transfered frames:269003, miss amount:58, Total Transferred size: 123478523
+539 minutes passing
+Total transfered frames:269503, miss amount:58, Total Transferred size: 123516523
+540 minutes passing
+Total transfered frames:270003, miss amount:58, Total Transferred size: 123554523
+541 minutes passing
+Total transfered frames:270503, miss amount:58, Total Transferred size: 123592523
+542 minutes passing
+Total transfered frames:271003, miss amount:58, Total Transferred size: 123630523
+543 minutes passing
+Total transfered frames:271503, miss amount:58, Total Transferred size: 123668523
+544 minutes passing
+Total transfered frames:272003, miss amount:58, Total Transferred size: 123706523
+545 minutes passing
+Total transfered frames:272503, miss amount:58, Total Transferred size: 123744523
+546 minutes passing
+Total transfered frames:273003, miss amount:58, Total Transferred size: 123782523
+547 minutes passing
+Total transfered frames:273503, miss amount:58, Total Transferred size: 123820523
+548 minutes passing
+Total transfered frames:274003, miss amount:58, Total Transferred size: 123858523
+549 minutes passing
+Total transfered frames:274503, miss amount:58, Total Transferred size: 123896523
+550 minutes passing
+Total transfered frames:275003, miss amount:58, Total Transferred size: 123934523
+551 minutes passing
+Total transfered frames:275503, miss amount:58, Total Transferred size: 123972523
+552 minutes passing
+Total transfered frames:276003, miss amount:58, Total Transferred size: 124010523
+553 minutes passing
+Total transfered frames:276503, miss amount:58, Total Transferred size: 124048523
+554 minutes passing
+Total transfered frames:277003, miss amount:58, Total Transferred size: 124086523
+555 minutes passing
+Total transfered frames:277503, miss amount:58, Total Transferred size: 124124523
+556 minutes passing
+Total transfered frames:278003, miss amount:58, Total Transferred size: 124162523
+557 minutes passing
+Total transfered frames:278503, miss amount:58, Total Transferred size: 124200523
+558 minutes passing
+Total transfered frames:279003, miss amount:58, Total Transferred size: 124238523
+559 minutes passing
+Total transfered frames:279503, miss amount:58, Total Transferred size: 124276523
+560 minutes passing
+Total transfered frames:280003, miss amount:58, Total Transferred size: 124314523
+561 minutes passing
+Total transfered frames:280503, miss amount:58, Total Transferred size: 124352523
+562 minutes passing
+Total transfered frames:281003, miss amount:58, Total Transferred size: 124390523
+563 minutes passing
+Total transfered frames:281503, miss amount:58, Total Transferred size: 124428523
+564 minutes passing
+Total transfered frames:282003, miss amount:58, Total Transferred size: 124466523
+565 minutes passing
+Total transfered frames:282503, miss amount:58, Total Transferred size: 124504523
+566 minutes passing
+Total transfered frames:283003, miss amount:58, Total Transferred size: 124542523
+567 minutes passing
+Total transfered frames:283503, miss amount:58, Total Transferred size: 124580523
+568 minutes passing
+Total transfered frames:284003, miss amount:58, Total Transferred size: 124618523
+569 minutes passing
+Total transfered frames:284503, miss amount:58, Total Transferred size: 124656523
+570 minutes passing
+Total transfered frames:285003, miss amount:58, Total Transferred size: 124694523
+571 minutes passing
+Total transfered frames:285503, miss amount:58, Total Transferred size: 124732523
+572 minutes passing
+Total transfered frames:286003, miss amount:58, Total Transferred size: 124770523
+573 minutes passing
+Total transfered frames:286503, miss amount:58, Total Transferred size: 124808523
+574 minutes passing
+Total transfered frames:287003, miss amount:58, Total Transferred size: 124846523
+575 minutes passing
+Total transfered frames:287503, miss amount:58, Total Transferred size: 124884523
+576 minutes passing
+Total transfered frames:288003, miss amount:58, Total Transferred size: 124922523
+577 minutes passing
+Total transfered frames:288503, miss amount:58, Total Transferred size: 124960523
+578 minutes passing
+Total transfered frames:289003, miss amount:58, Total Transferred size: 124998523
+579 minutes passing
+Total transfered frames:289503, miss amount:58, Total Transferred size: 125036523
+580 minutes passing
+Total transfered frames:290003, miss amount:58, Total Transferred size: 125074523
+Total transfered frames:290503, miss amount:58, Total Transferred size: 125112523
+581 minutes passing
+582 minutes passing
+Total transfered frames:291003, miss amount:58, Total Transferred size: 125150523
+583 minutes passing
+Total transfered frames:291503, miss amount:58, Total Transferred size: 125188523
+584 minutes passing
+Total transfered frames:292003, miss amount:58, Total Transferred size: 125226523
+585 minutes passing
+Total transfered frames:292503, miss amount:58, Total Transferred size: 125264523
+586 minutes passing
+Total transfered frames:293003, miss amount:58, Total Transferred size: 125302523
+587 minutes passing
+Total transfered frames:293503, miss amount:58, Total Transferred size: 125340523
+588 minutes passing
+Total transfered frames:294003, miss amount:58, Total Transferred size: 125378523
+589 minutes passing
+Total transfered frames:294503, miss amount:58, Total Transferred size: 125416523
+590 minutes passing
+Total transfered frames:295003, miss amount:58, Total Transferred size: 125454523
+591 minutes passing
+Total transfered frames:295503, miss amount:58, Total Transferred size: 125492523
+592 minutes passing
+Total transfered frames:296003, miss amount:58, Total Transferred size: 125530523
+593 minutes passing
+Total transfered frames:296503, miss amount:58, Total Transferred size: 125568523
+594 minutes passing
+Total transfered frames:297003, miss amount:58, Total Transferred size: 125606523
+595 minutes passing
+Total transfered frames:297503, miss amount:58, Total Transferred size: 125644523
+596 minutes passing
+Total transfered frames:298003, miss amount:58, Total Transferred size: 125682523
+597 minutes passing
+Total transfered frames:298503, miss amount:58, Total Transferred size: 125720523
+598 minutes passing
+Total transfered frames:299003, miss amount:58, Total Transferred size: 125758523
+599 minutes passing
+Total transfered frames:299503, miss amount:58, Total Transferred size: 125796523
+600 minutes passing
+Total transfered frames:300003, miss amount:58, Total Transferred size: 125834523
+601 minutes passing
+Total transfered frames:300504, miss amount:58, Total Transferred size: 125872599
+602 minutes passing
+Total transfered frames:301004, miss amount:58, Total Transferred size: 125910599
+603 minutes passing
+Total transfered frames:301504, miss amount:58, Total Transferred size: 125948599
+604 minutes passing
+Total transfered frames:302004, miss amount:58, Total Transferred size: 125986599
+605 minutes passing
+Total transfered frames:302504, miss amount:58, Total Transferred size: 126024599
+606 minutes passing
+Total transfered frames:303004, miss amount:58, Total Transferred size: 126062599
+607 minutes passing
+Total transfered frames:303504, miss amount:58, Total Transferred size: 126100599
+608 minutes passing
+Total transfered frames:304004, miss amount:58, Total Transferred size: 126138599
+609 minutes passing
+Total transfered frames:304504, miss amount:58, Total Transferred size: 126176599
+610 minutes passing
+Total transfered frames:305004, miss amount:58, Total Transferred size: 126214599
+611 minutes passing
+Total transfered frames:305504, miss amount:58, Total Transferred size: 126252599
+612 minutes passing
+Total transfered frames:306004, miss amount:58, Total Transferred size: 126290599
+613 minutes passing
+Total transfered frames:306504, miss amount:58, Total Transferred size: 126328599
+614 minutes passing
+Total transfered frames:307004, miss amount:58, Total Transferred size: 126366599
+615 minutes passing
+Total transfered frames:307504, miss amount:58, Total Transferred size: 126404599
+616 minutes passing
+Total transfered frames:308004, miss amount:58, Total Transferred size: 126442599
+617 minutes passing
+Total transfered frames:308504, miss amount:58, Total Transferred size: 126480599
+Total transfered frames:309004, miss amount:58, Total Transferred size: 126518599
+618 minutes passing
+619 minutes passing
+Total transfered frames:309504, miss amount:58, Total Transferred size: 126556599
+620 minutes passing
+Total transfered frames:310004, miss amount:58, Total Transferred size: 126594599
+621 minutes passing
+Total transfered frames:310504, miss amount:58, Total Transferred size: 126632599
+622 minutes passing
+Total transfered frames:311004, miss amount:58, Total Transferred size: 126670599
+623 minutes passing
+Total transfered frames:311504, miss amount:58, Total Transferred size: 126708599
+624 minutes passing
+Total transfered frames:312004, miss amount:58, Total Transferred size: 126746599
+625 minutes passing
+Total transfered frames:312504, miss amount:58, Total Transferred size: 126784599
+626 minutes passing
+Total transfered frames:313004, miss amount:58, Total Transferred size: 126822599
+627 minutes passing
+Total transfered frames:313504, miss amount:58, Total Transferred size: 126860599
+628 minutes passing
+Total transfered frames:314004, miss amount:58, Total Transferred size: 126898599
+629 minutes passing
+Total transfered frames:314504, miss amount:58, Total Transferred size: 126936599
+630 minutes passing
+Total transfered frames:315004, miss amount:58, Total Transferred size: 126974599
+631 minutes passing
+Total transfered frames:315504, miss amount:58, Total Transferred size: 127012599
+632 minutes passing
+Total transfered frames:316004, miss amount:58, Total Transferred size: 127050599
+633 minutes passing
+Total transfered frames:316504, miss amount:58, Total Transferred size: 127088599
+634 minutes passing
+Total transfered frames:317004, miss amount:58, Total Transferred size: 127126599
+635 minutes passing
+Total transfered frames:317504, miss amount:58, Total Transferred size: 127164599
+636 minutes passing
+Total transfered frames:318004, miss amount:58, Total Transferred size: 127202599
+637 minutes passing
+Total transfered frames:318504, miss amount:58, Total Transferred size: 127240599
+638 minutes passing
+Total transfered frames:319004, miss amount:58, Total Transferred size: 127278599
+639 minutes passing
+Total transfered frames:319504, miss amount:58, Total Transferred size: 127316599
+640 minutes passing
+Total transfered frames:320004, miss amount:58, Total Transferred size: 127354599
+641 minutes passing
+Total transfered frames:320504, miss amount:58, Total Transferred size: 127392599
+642 minutes passing
+Total transfered frames:321004, miss amount:58, Total Transferred size: 127430599
+643 minutes passing
+Total transfered frames:321504, miss amount:58, Total Transferred size: 127468599
+644 minutes passing
+Total transfered frames:322004, miss amount:58, Total Transferred size: 127506599
+645 minutes passing
+Total transfered frames:322504, miss amount:58, Total Transferred size: 127544599
+646 minutes passing
+Total transfered frames:323004, miss amount:58, Total Transferred size: 127582599
+647 minutes passing
+Total transfered frames:323504, miss amount:58, Total Transferred size: 127620599
+648 minutes passing
+Total transfered frames:324004, miss amount:58, Total Transferred size: 127658599
+649 minutes passing
+Total transfered frames:324504, miss amount:58, Total Transferred size: 127696599
+650 minutes passing
+Total transfered frames:325004, miss amount:58, Total Transferred size: 127734599
+651 minutes passing
+Total transfered frames:325504, miss amount:58, Total Transferred size: 127772599
+652 minutes passing
+Total transfered frames:326004, miss amount:58, Total Transferred size: 127810599
+653 minutes passing
+Total transfered frames:326504, miss amount:58, Total Transferred size: 127848599
+654 minutes passing
+Total transfered frames:327004, miss amount:58, Total Transferred size: 127886599
+Total transfered frames:327504, miss amount:58, Total Transferred size: 127924599
+655 minutes passing
+656 minutes passing
+Total transfered frames:328004, miss amount:58, Total Transferred size: 127962599
+657 minutes passing
+Total transfered frames:328504, miss amount:58, Total Transferred size: 128000599
+658 minutes passing
+Total transfered frames:329004, miss amount:58, Total Transferred size: 128038599
+659 minutes passing
+Total transfered frames:329504, miss amount:58, Total Transferred size: 128076599
+660 minutes passing
+Total transfered frames:330004, miss amount:58, Total Transferred size: 128114599
+661 minutes passing
+Total transfered frames:330504, miss amount:58, Total Transferred size: 128152599
+662 minutes passing
+Total transfered frames:331004, miss amount:58, Total Transferred size: 128190599
+663 minutes passing
+Total transfered frames:331504, miss amount:58, Total Transferred size: 128228599
+664 minutes passing
+Total transfered frames:332004, miss amount:58, Total Transferred size: 128266599
+665 minutes passing
+Total transfered frames:332477, miss amount:58, Total Transferred size: 128302547
+666 minutes passing
+Total transfered frames:333004, miss amount:58, Total Transferred size: 128342599
+667 minutes passing
+Total transfered frames:333504, miss amount:58, Total Transferred size: 128380599
+668 minutes passing
+Total transfered frames:334004, miss amount:58, Total Transferred size: 128418599
+669 minutes passing
+Total transfered frames:334478, miss amount:58, Total Transferred size: 128454623
+670 minutes passing
+Total transfered frames:335004, miss amount:58, Total Transferred size: 128494599
+671 minutes passing
+Total transfered frames:335478, miss amount:58, Total Transferred size: 128530623
+672 minutes passing
+Total transfered frames:336004, miss amount:58, Total Transferred size: 128570599
+673 minutes passing
+Total transfered frames:336504, miss amount:58, Total Transferred size: 128608599
+674 minutes passing
+Total transfered frames:337004, miss amount:58, Total Transferred size: 128646599
+675 minutes passing
+Total transfered frames:337504, miss amount:58, Total Transferred size: 128684599
+676 minutes passing
+Total transfered frames:338004, miss amount:58, Total Transferred size: 128722599
+677 minutes passing
+Total transfered frames:338504, miss amount:58, Total Transferred size: 128760599
+678 minutes passing
+Total transfered frames:339004, miss amount:58, Total Transferred size: 128798599
+679 minutes passing
+Total transfered frames:339504, miss amount:58, Total Transferred size: 128836599
+680 minutes passing
+Total transfered frames:340004, miss amount:58, Total Transferred size: 128874599
+681 minutes passing
+Total transfered frames:340504, miss amount:58, Total Transferred size: 128912599
+682 minutes passing
+Total transfered frames:341004, miss amount:58, Total Transferred size: 128950599
+683 minutes passing
+Total transfered frames:341504, miss amount:58, Total Transferred size: 128988599
+684 minutes passing
+Total transfered frames:342004, miss amount:58, Total Transferred size: 129026599
+685 minutes passing
+Total transfered frames:342504, miss amount:58, Total Transferred size: 129064599
+686 minutes passing
+Total transfered frames:343002, miss amount:58, Total Transferred size: 129102447
+687 minutes passing
+Total transfered frames:343504, miss amount:58, Total Transferred size: 129140599
+688 minutes passing
+Total transfered frames:344004, miss amount:58, Total Transferred size: 129178599
+689 minutes passing
+Total transfered frames:344504, miss amount:58, Total Transferred size: 129216599
+690 minutes passing
+Total transfered frames:345004, miss amount:58, Total Transferred size: 129254599
+691 minutes passing
+Total transfered frames:345504, miss amount:58, Total Transferred size: 129292599
+692 minutes passing
+Total transfered frames:346004, miss amount:58, Total Transferred size: 129330599
+693 minutes passing
+Total transfered frames:346504, miss amount:58, Total Transferred size: 129368599
+694 minutes passing
+Total transfered frames:347004, miss amount:58, Total Transferred size: 129406599
+695 minutes passing
+Total transfered frames:347504, miss amount:58, Total Transferred size: 129444599
+696 minutes passing
+Total transfered frames:348004, miss amount:58, Total Transferred size: 129482599
+697 minutes passing
+Total transfered frames:348504, miss amount:58, Total Transferred size: 129520599
+698 minutes passing
+Total transfered frames:349004, miss amount:58, Total Transferred size: 129558599
+699 minutes passing
+Total transfered frames:349504, miss amount:58, Total Transferred size: 129596599
+Total transfered frames:350004, miss amount:58, Total Transferred size: 129634599
+700 minutes passing
+701 minutes passing
+Total transfered frames:350504, miss amount:58, Total Transferred size: 129672599
+702 minutes passing
+Total transfered frames:351004, miss amount:58, Total Transferred size: 129710599
+703 minutes passing
+Total transfered frames:351504, miss amount:58, Total Transferred size: 129748599
+Total transfered frames:352004, miss amount:58, Total Transferred size: 129786599
+704 minutes passing
+Total transfered frames:352480, miss amount:58, Total Transferred size: 129822775
+705 minutes passing
+Total transfered frames:353004, miss amount:58, Total Transferred size: 129862599
+706 minutes passing
+707 minutes passing
+Total transfered frames:353504, miss amount:58, Total Transferred size: 129900599
+708 minutes passing
+Total transfered frames:354004, miss amount:58, Total Transferred size: 129938599
+709 minutes passing
+Total transfered frames:354504, miss amount:58, Total Transferred size: 129976599
+710 minutes passing
+Total transfered frames:355004, miss amount:58, Total Transferred size: 130014599
+711 minutes passing
+Total transfered frames:355504, miss amount:58, Total Transferred size: 130052599
+712 minutes passing
+Total transfered frames:356004, miss amount:58, Total Transferred size: 130090599
+713 minutes passing
+Total transfered frames:356504, miss amount:58, Total Transferred size: 130128599
+714 minutes passing
+Total transfered frames:357004, miss amount:58, Total Transferred size: 130166599
+715 minutes passing
+Total transfered frames:357504, miss amount:58, Total Transferred size: 130204599
+716 minutes passing
+Total transfered frames:358004, miss amount:58, Total Transferred size: 130242599
+717 minutes passing
+Total transfered frames:358490, miss amount:58, Total Transferred size: 130279535
+718 minutes passing
+Total transfered frames:359004, miss amount:58, Total Transferred size: 130318599
+719 minutes passing
+Total transfered frames:359504, miss amount:58, Total Transferred size: 130356599
+720 minutes passing
+Total transfered frames:360004, miss amount:58, Total Transferred size: 130394599
+721 minutes passing
+Total transfered frames:360504, miss amount:58, Total Transferred size: 130432599
+722 minutes passing
+Total transfered frames:361004, miss amount:58, Total Transferred size: 130470599
+723 minutes passing
+Total transfered frames:361504, miss amount:58, Total Transferred size: 130508599
+724 minutes passing
+Total transfered frames:362004, miss amount:58, Total Transferred size: 130546599
+725 minutes passing
+Total transfered frames:362504, miss amount:58, Total Transferred size: 130584599
+726 minutes passing
+Total transfered frames:363004, miss amount:58, Total Transferred size: 130622599
+727 minutes passing
+Total transfered frames:363504, miss amount:58, Total Transferred size: 130660599
+Total transfered frames:364004, miss amount:58, Total Transferred size: 130698599
+728 minutes passing
+729 minutes passing
+Total transfered frames:364504, miss amount:58, Total Transferred size: 130736599
+730 minutes passing
+Total transfered frames:365004, miss amount:58, Total Transferred size: 130774599
+731 minutes passing
+Total transfered frames:365504, miss amount:58, Total Transferred size: 130812599
+732 minutes passing
+Total transfered frames:366004, miss amount:58, Total Transferred size: 130850599
+733 minutes passing
+Total transfered frames:366504, miss amount:58, Total Transferred size: 130888599
+734 minutes passing
+Total transfered frames:367004, miss amount:58, Total Transferred size: 130926599
+735 minutes passing
+Total transfered frames:367504, miss amount:58, Total Transferred size: 130964599
+736 minutes passing
+Total transfered frames:368004, miss amount:58, Total Transferred size: 131002599
+737 minutes passing
+Total transfered frames:368504, miss amount:58, Total Transferred size: 131040599
+738 minutes passing
+Total transfered frames:369004, miss amount:58, Total Transferred size: 131078599
+739 minutes passing
+Total transfered frames:369504, miss amount:58, Total Transferred size: 131116599
+740 minutes passing
+Total transfered frames:370004, miss amount:58, Total Transferred size: 131154599
+741 minutes passing
+Total transfered frames:370504, miss amount:58, Total Transferred size: 131192599
+742 minutes passing
+Total transfered frames:371004, miss amount:58, Total Transferred size: 131230599
+743 minutes passing
+Total transfered frames:371504, miss amount:58, Total Transferred size: 131268599
+744 minutes passing
+Total transfered frames:372004, miss amount:58, Total Transferred size: 131306599
+745 minutes passing
+Total transfered frames:372504, miss amount:58, Total Transferred size: 131344599
+746 minutes passing
+Total transfered frames:373004, miss amount:58, Total Transferred size: 131382599
+747 minutes passing
+Total transfered frames:373504, miss amount:58, Total Transferred size: 131420599
+748 minutes passing
+Total transfered frames:374004, miss amount:58, Total Transferred size: 131458599
+749 minutes passing
+Total transfered frames:374504, miss amount:58, Total Transferred size: 131496599
+750 minutes passing
+Total transfered frames:375004, miss amount:58, Total Transferred size: 131534599
+751 minutes passing
+Total transfered frames:375504, miss amount:58, Total Transferred size: 131572599
+752 minutes passing
+Total transfered frames:376004, miss amount:58, Total Transferred size: 131610599
+753 minutes passing
+Total transfered frames:376504, miss amount:58, Total Transferred size: 131648599
+754 minutes passing
+Total transfered frames:377004, miss amount:58, Total Transferred size: 131686599
+755 minutes passing
+Total transfered frames:377504, miss amount:58, Total Transferred size: 131724599
+756 minutes passing
+Total transfered frames:378004, miss amount:58, Total Transferred size: 131762599
+757 minutes passing
+Total transfered frames:378504, miss amount:58, Total Transferred size: 131800599
+758 minutes passing
+Total transfered frames:379004, miss amount:58, Total Transferred size: 131838599
+759 minutes passing
+Total transfered frames:379504, miss amount:58, Total Transferred size: 131876599
+760 minutes passing
+Total transfered frames:380004, miss amount:58, Total Transferred size: 131914599
+761 minutes passing
+Total transfered frames:380504, miss amount:58, Total Transferred size: 131952599
+762 minutes passing
+Total transfered frames:381004, miss amount:58, Total Transferred size: 131990599
+763 minutes passing
+Total transfered frames:381504, miss amount:58, Total Transferred size: 132028599
+764 minutes passing
+Total transfered frames:382004, miss amount:58, Total Transferred size: 132066599
+765 minutes passing
+Total transfered frames:382504, miss amount:58, Total Transferred size: 132104599
+766 minutes passing
+Total transfered frames:383004, miss amount:58, Total Transferred size: 132142599
+767 minutes passing
+Total transfered frames:383504, miss amount:58, Total Transferred size: 132180599
+768 minutes passing
+Total transfered frames:383990, miss amount:58, Total Transferred size: 132217535
+769 minutes passing
+Total transfered frames:384504, miss amount:58, Total Transferred size: 132256599
+770 minutes passing
+Total transfered frames:385004, miss amount:58, Total Transferred size: 132294599
+771 minutes passing
+Total transfered frames:385504, miss amount:58, Total Transferred size: 132332599
+772 minutes passing
+Total transfered frames:386004, miss amount:58, Total Transferred size: 132370599
+773 minutes passing
+Total transfered frames:386504, miss amount:58, Total Transferred size: 132408599
+774 minutes passing
+Total transfered frames:387004, miss amount:58, Total Transferred size: 132446599
+775 minutes passing
+Total transfered frames:387504, miss amount:58, Total Transferred size: 132484599
+776 minutes passing
+Total transfered frames:388004, miss amount:58, Total Transferred size: 132522599
+Total transfered frames:388504, miss amount:58, Total Transferred size: 132560599
+777 minutes passing
+778 minutes passing
+Total transfered frames:389004, miss amount:58, Total Transferred size: 132598599
+779 minutes passing
+Total transfered frames:389504, miss amount:58, Total Transferred size: 132636599
+780 minutes passing
+Total transfered frames:390004, miss amount:58, Total Transferred size: 132674599
+781 minutes passing
+Total transfered frames:390504, miss amount:58, Total Transferred size: 132712599
+782 minutes passing
+Total transfered frames:391004, miss amount:58, Total Transferred size: 132750599
+783 minutes passing
+Total transfered frames:391504, miss amount:58, Total Transferred size: 132788599
+784 minutes passing
+Total transfered frames:392004, miss amount:58, Total Transferred size: 132826599
+785 minutes passing
+Total transfered frames:392504, miss amount:58, Total Transferred size: 132864599
+786 minutes passing
+Total transfered frames:393004, miss amount:58, Total Transferred size: 132902599
+787 minutes passing
+Total transfered frames:393504, miss amount:58, Total Transferred size: 132940599
+788 minutes passing
+Total transfered frames:394004, miss amount:58, Total Transferred size: 132978599
+789 minutes passing
+Total transfered frames:394504, miss amount:58, Total Transferred size: 133016599
+790 minutes passing
+Total transfered frames:395004, miss amount:58, Total Transferred size: 133054599
+791 minutes passing
+Total transfered frames:395504, miss amount:58, Total Transferred size: 133092599
+792 minutes passing
+Total transfered frames:396004, miss amount:58, Total Transferred size: 133130599
+793 minutes passing
+Total transfered frames:396504, miss amount:58, Total Transferred size: 133168599
+794 minutes passing
+Total transfered frames:397004, miss amount:58, Total Transferred size: 133206599
+795 minutes passing
+Total transfered frames:397504, miss amount:58, Total Transferred size: 133244599
+796 minutes passing
+Total transfered frames:398004, miss amount:58, Total Transferred size: 133282599
+797 minutes passing
+Total transfered frames:398504, miss amount:58, Total Transferred size: 133320599
+798 minutes passing
+Total transfered frames:399004, miss amount:58, Total Transferred size: 133358599
+799 minutes passing
+Total transfered frames:399504, miss amount:58, Total Transferred size: 133396599
+800 minutes passing
+Total transfered frames:400004, miss amount:58, Total Transferred size: 133434599
+801 minutes passing
+Total transfered frames:400504, miss amount:58, Total Transferred size: 133472599
+802 minutes passing
+Total transfered frames:401004, miss amount:58, Total Transferred size: 133510599
+803 minutes passing
+Total transfered frames:401504, miss amount:58, Total Transferred size: 133548599
+804 minutes passing
+Total transfered frames:402004, miss amount:58, Total Transferred size: 133586599
+805 minutes passing
+Total transfered frames:402504, miss amount:58, Total Transferred size: 133624599
+806 minutes passing
+Total transfered frames:403004, miss amount:58, Total Transferred size: 133662599
+807 minutes passing
+Total transfered frames:403486, miss amount:58, Total Transferred size: 133699231
+808 minutes passing
+Total transfered frames:404004, miss amount:58, Total Transferred size: 133738599
+809 minutes passing
+Total transfered frames:404486, miss amount:58, Total Transferred size: 133775231
+810 minutes passing
+Total transfered frames:405004, miss amount:58, Total Transferred size: 133814599
+811 minutes passing
+Total transfered frames:405504, miss amount:58, Total Transferred size: 133852599
+812 minutes passing
+Total transfered frames:406004, miss amount:58, Total Transferred size: 133890599
+813 minutes passing
+Total transfered frames:406504, miss amount:58, Total Transferred size: 133928599
+814 minutes passing
+Total transfered frames:407004, miss amount:58, Total Transferred size: 133966599
+815 minutes passing
+Total transfered frames:407504, miss amount:58, Total Transferred size: 134004599
+816 minutes passing
+Total transfered frames:408004, miss amount:58, Total Transferred size: 134042599
+817 minutes passing
+Total transfered frames:408504, miss amount:58, Total Transferred size: 134080599
+818 minutes passing
+Total transfered frames:409004, miss amount:58, Total Transferred size: 134118599
+819 minutes passing
+Total transfered frames:409504, miss amount:58, Total Transferred size: 134156599
+820 minutes passing
+Total transfered frames:410004, miss amount:58, Total Transferred size: 134194599
+821 minutes passing
+Total transfered frames:410504, miss amount:58, Total Transferred size: 134232599
+822 minutes passing
+Total transfered frames:411004, miss amount:58, Total Transferred size: 134270599
+823 minutes passing
+Total transfered frames:411504, miss amount:58, Total Transferred size: 134308599
+824 minutes passing
+Total transfered frames:412004, miss amount:58, Total Transferred size: 134346599
+825 minutes passing
+Total transfered frames:412504, miss amount:58, Total Transferred size: 134384599
+826 minutes passing
+Total transfered frames:413004, miss amount:58, Total Transferred size: 134422599
+827 minutes passing
+Total transfered frames:413504, miss amount:58, Total Transferred size: 134460599
+828 minutes passing
+Total transfered frames:414004, miss amount:58, Total Transferred size: 134498599
+829 minutes passing
+Total transfered frames:414504, miss amount:58, Total Transferred size: 134536599
+830 minutes passing
+Total transfered frames:415004, miss amount:58, Total Transferred size: 134574599
+831 minutes passing
+Total transfered frames:415504, miss amount:58, Total Transferred size: 134612599
+832 minutes passing
+Total transfered frames:416004, miss amount:58, Total Transferred size: 134650599
+833 minutes passing
+Total transfered frames:416504, miss amount:58, Total Transferred size: 134688599
+834 minutes passing
+Total transfered frames:417004, miss amount:58, Total Transferred size: 134726599
+835 minutes passing
+Total transfered frames:417505, miss amount:58, Total Transferred size: 134764675
+836 minutes passing
+Total transfered frames:418005, miss amount:58, Total Transferred size: 134802675
+837 minutes passing
+Total transfered frames:418505, miss amount:58, Total Transferred size: 134840675
+838 minutes passing
+Total transfered frames:419005, miss amount:58, Total Transferred size: 134878675
+839 minutes passing
+Total transfered frames:419505, miss amount:58, Total Transferred size: 134916675
+840 minutes passing
+Total transfered frames:420005, miss amount:58, Total Transferred size: 134954675
+841 minutes passing
+Total transfered frames:420505, miss amount:58, Total Transferred size: 134992675
+842 minutes passing
+Total transfered frames:421005, miss amount:58, Total Transferred size: 135030675
+843 minutes passing
+Total transfered frames:421505, miss amount:58, Total Transferred size: 135068675
+844 minutes passing
+Total transfered frames:422005, miss amount:58, Total Transferred size: 135106675
+845 minutes passing
+Total transfered frames:422505, miss amount:58, Total Transferred size: 135144675
+846 minutes passing
+Total transfered frames:423005, miss amount:58, Total Transferred size: 135182675
+847 minutes passing
+Total transfered frames:423505, miss amount:58, Total Transferred size: 135220675
+848 minutes passing
+Total transfered frames:424005, miss amount:58, Total Transferred size: 135258675
+849 minutes passing
+Total transfered frames:424505, miss amount:58, Total Transferred size: 135296675
+850 minutes passing
+Total transfered frames:425005, miss amount:58, Total Transferred size: 135334675
+851 minutes passing
+Total transfered frames:425498, miss amount:58, Total Transferred size: 135372143
+852 minutes passing
+Total transfered frames:426005, miss amount:58, Total Transferred size: 135410675
+853 minutes passing
+Total transfered frames:426498, miss amount:58, Total Transferred size: 135448143
+854 minutes passing
+Total transfered frames:427005, miss amount:58, Total Transferred size: 135486675
+855 minutes passing
+Total transfered frames:427505, miss amount:58, Total Transferred size: 135524675
+856 minutes passing
+Total transfered frames:428005, miss amount:58, Total Transferred size: 135562675
+857 minutes passing
+Total transfered frames:428505, miss amount:58, Total Transferred size: 135600675
+858 minutes passing
+Total transfered frames:429005, miss amount:58, Total Transferred size: 135638675
+859 minutes passing
+Total transfered frames:429505, miss amount:58, Total Transferred size: 135676675
+860 minutes passing
+Total transfered frames:430005, miss amount:58, Total Transferred size: 135714675
+861 minutes passing
+Total transfered frames:430505, miss amount:58, Total Transferred size: 135752675
+862 minutes passing
+Total transfered frames:431005, miss amount:58, Total Transferred size: 135790675
+863 minutes passing
+Total transfered frames:431505, miss amount:58, Total Transferred size: 135828675
+Total transfered frames:432005, miss amount:58, Total Transferred size: 135866675
+864 minutes passing
+865 minutes passing
+Total transfered frames:432505, miss amount:58, Total Transferred size: 135904675
+866 minutes passing
+Total transfered frames:433005, miss amount:58, Total Transferred size: 135942675
+867 minutes passing
+Total transfered frames:433505, miss amount:58, Total Transferred size: 135980675
+868 minutes passing
+Total transfered frames:434005, miss amount:58, Total Transferred size: 136018675
+869 minutes passing
+Total transfered frames:434505, miss amount:58, Total Transferred size: 136056675
+870 minutes passing
+Total transfered frames:435005, miss amount:58, Total Transferred size: 136094675
+871 minutes passing
+Total transfered frames:435499, miss amount:58, Total Transferred size: 136132219
+872 minutes passing
+Total transfered frames:436005, miss amount:58, Total Transferred size: 136170675
+873 minutes passing
+Total transfered frames:436505, miss amount:58, Total Transferred size: 136208675
+874 minutes passing
+Total transfered frames:437005, miss amount:58, Total Transferred size: 136246675
+875 minutes passing
+Total transfered frames:437500, miss amount:58, Total Transferred size: 136284295
+876 minutes passing
+Total transfered frames:438005, miss amount:58, Total Transferred size: 136322675
+877 minutes passing
+Total transfered frames:438500, miss amount:58, Total Transferred size: 136360295
+878 minutes passing
+Total transfered frames:439005, miss amount:58, Total Transferred size: 136398675
+879 minutes passing
+Total transfered frames:439505, miss amount:58, Total Transferred size: 136436675
+880 minutes passing
+Total transfered frames:440005, miss amount:58, Total Transferred size: 136474675
+881 minutes passing
+Total transfered frames:440505, miss amount:58, Total Transferred size: 136512675
+882 minutes passing
+Total transfered frames:441005, miss amount:58, Total Transferred size: 136550675
+883 minutes passing
+Total transfered frames:441505, miss amount:58, Total Transferred size: 136588675
+884 minutes passing
+Total transfered frames:442005, miss amount:58, Total Transferred size: 136626675
+885 minutes passing
+Total transfered frames:442505, miss amount:58, Total Transferred size: 136664675
+886 minutes passing
+Total transfered frames:443005, miss amount:58, Total Transferred size: 136702675
+887 minutes passing
+Total transfered frames:443505, miss amount:58, Total Transferred size: 136740675
+888 minutes passing
+Total transfered frames:444005, miss amount:58, Total Transferred size: 136778675
+889 minutes passing
+Total transfered frames:444505, miss amount:58, Total Transferred size: 136816675
+890 minutes passing
+Total transfered frames:445005, miss amount:58, Total Transferred size: 136854675
+891 minutes passing
+Total transfered frames:445505, miss amount:58, Total Transferred size: 136892675
+892 minutes passing
+Total transfered frames:446005, miss amount:58, Total Transferred size: 136930675
+893 minutes passing
+Total transfered frames:446505, miss amount:58, Total Transferred size: 136968675
+894 minutes passing
+Total transfered frames:447005, miss amount:58, Total Transferred size: 137006675
+895 minutes passing
+Total transfered frames:447505, miss amount:58, Total Transferred size: 137044675
+896 minutes passing
+Total transfered frames:448005, miss amount:58, Total Transferred size: 137082675
+897 minutes passing
+Total transfered frames:448505, miss amount:58, Total Transferred size: 137120675
+898 minutes passing
+Total transfered frames:449005, miss amount:58, Total Transferred size: 137158675
+899 minutes passing
+Total transfered frames:449505, miss amount:58, Total Transferred size: 137196675
+900 minutes passing
+Total transfered frames:450005, miss amount:58, Total Transferred size: 137234675
+901 minutes passing
+Total transfered frames:450505, miss amount:58, Total Transferred size: 137272675
+902 minutes passing
+Total transfered frames:451005, miss amount:58, Total Transferred size: 137310675
+903 minutes passing
+Total transfered frames:451505, miss amount:58, Total Transferred size: 137348675
+904 minutes passing
+Total transfered frames:452005, miss amount:58, Total Transferred size: 137386675
+905 minutes passing
+Total transfered frames:452501, miss amount:58, Total Transferred size: 137424371
+906 minutes passing
+Total transfered frames:453005, miss amount:58, Total Transferred size: 137462675
+907 minutes passing
+Total transfered frames:453505, miss amount:58, Total Transferred size: 137500675
+908 minutes passing
+Total transfered frames:454005, miss amount:58, Total Transferred size: 137538675
+909 minutes passing
+Total transfered frames:454505, miss amount:58, Total Transferred size: 137576675
+910 minutes passing
+Total transfered frames:455005, miss amount:58, Total Transferred size: 137614675
+911 minutes passing
+Total transfered frames:455505, miss amount:58, Total Transferred size: 137652675
+912 minutes passing
+Total transfered frames:456005, miss amount:58, Total Transferred size: 137690675
+913 minutes passing
+Total transfered frames:456505, miss amount:58, Total Transferred size: 137728675
+914 minutes passing
+Total transfered frames:457005, miss amount:58, Total Transferred size: 137766675
+915 minutes passing
+Total transfered frames:457505, miss amount:58, Total Transferred size: 137804675
+916 minutes passing
+Total transfered frames:458005, miss amount:58, Total Transferred size: 137842675
+917 minutes passing
+Total transfered frames:458505, miss amount:58, Total Transferred size: 137880675
+918 minutes passing
+Total transfered frames:459005, miss amount:58, Total Transferred size: 137918675
+919 minutes passing
+Total transfered frames:459505, miss amount:58, Total Transferred size: 137956675
+920 minutes passing
+Total transfered frames:460005, miss amount:58, Total Transferred size: 137994675
+921 minutes passing
+Total transfered frames:460505, miss amount:58, Total Transferred size: 138032675
+922 minutes passing
+Total transfered frames:461005, miss amount:58, Total Transferred size: 138070675
+923 minutes passing
+Total transfered frames:461505, miss amount:58, Total Transferred size: 138108675
+924 minutes passing
+Total transfered frames:462005, miss amount:58, Total Transferred size: 138146675
+925 minutes passing
+Total transfered frames:462505, miss amount:58, Total Transferred size: 138184675
+926 minutes passing
+Total transfered frames:463005, miss amount:58, Total Transferred size: 138222675
+927 minutes passing
+Total transfered frames:463505, miss amount:58, Total Transferred size: 138260675
+928 minutes passing
+Total transfered frames:464005, miss amount:58, Total Transferred size: 138298675
+929 minutes passing
+Total transfered frames:464505, miss amount:58, Total Transferred size: 138336675
+930 minutes passing
+Total transfered frames:465005, miss amount:58, Total Transferred size: 138374675
+931 minutes passing
+Total transfered frames:465505, miss amount:58, Total Transferred size: 138412675
+932 minutes passing
+Total transfered frames:466005, miss amount:58, Total Transferred size: 138450675
+933 minutes passing
+Total transfered frames:466505, miss amount:58, Total Transferred size: 138488675
+934 minutes passing
+Total transfered frames:467005, miss amount:58, Total Transferred size: 138526675
+935 minutes passing
+Total transfered frames:467505, miss amount:58, Total Transferred size: 138564675
+936 minutes passing
+Total transfered frames:468005, miss amount:58, Total Transferred size: 138602675
+937 minutes passing
+Total transfered frames:468493, miss amount:58, Total Transferred size: 138639763
+938 minutes passing
+Total transfered frames:469005, miss amount:58, Total Transferred size: 138678675
+939 minutes passing
+Total transfered frames:469505, miss amount:58, Total Transferred size: 138716675
+940 minutes passing
+Total transfered frames:470005, miss amount:58, Total Transferred size: 138754675
+941 minutes passing
+Total transfered frames:470505, miss amount:58, Total Transferred size: 138792675
+942 minutes passing
+Total transfered frames:471005, miss amount:58, Total Transferred size: 138830675
+Total transfered frames:471505, miss amount:58, Total Transferred size: 138868675
+943 minutes passing
+944 minutes passing
+Total transfered frames:472005, miss amount:58, Total Transferred size: 138906675
+945 minutes passing
+Total transfered frames:472505, miss amount:58, Total Transferred size: 138944675
+946 minutes passing
+Total transfered frames:473005, miss amount:58, Total Transferred size: 138982675
+947 minutes passing
+Total transfered frames:473505, miss amount:58, Total Transferred size: 139020675
+948 minutes passing
+Total transfered frames:474005, miss amount:58, Total Transferred size: 139058675
+949 minutes passing
+Total transfered frames:474505, miss amount:58, Total Transferred size: 139096675
+950 minutes passing
+Total transfered frames:475005, miss amount:58, Total Transferred size: 139134675
+951 minutes passing
+Total transfered frames:475505, miss amount:58, Total Transferred size: 139172675
+952 minutes passing
+Total transfered frames:476005, miss amount:58, Total Transferred size: 139210675
+953 minutes passing
+Total transfered frames:476505, miss amount:58, Total Transferred size: 139248675
+954 minutes passing
+Total transfered frames:477005, miss amount:58, Total Transferred size: 139286675
+Total transfered frames:477505, miss amount:58, Total Transferred size: 139324675
+955 minutes passing
+956 minutes passing
+Total transfered frames:478005, miss amount:58, Total Transferred size: 139362675
+957 minutes passing
+Total transfered frames:478505, miss amount:58, Total Transferred size: 139400675
+958 minutes passing
+Total transfered frames:479005, miss amount:58, Total Transferred size: 139438675
+Total transfered frames:479505, miss amount:58, Total Transferred size: 139476675
+959 minutes passing
+960 minutes passing
+Total transfered frames:480005, miss amount:58, Total Transferred size: 139514675
+961 minutes passing
+Total transfered frames:480505, miss amount:58, Total Transferred size: 139552675
+962 minutes passing
+Total transfered frames:481005, miss amount:58, Total Transferred size: 139590675
+963 minutes passing
+Total transfered frames:481495, miss amount:58, Total Transferred size: 139627915
+964 minutes passing
+Total transfered frames:482005, miss amount:58, Total Transferred size: 139666675
+965 minutes passing
+Total transfered frames:482505, miss amount:58, Total Transferred size: 139704675
+Total transfered frames:483005, miss amount:58, Total Transferred size: 139742675
+966 minutes passing
+967 minutes passing
+Total transfered frames:483505, miss amount:58, Total Transferred size: 139780675
+968 minutes passing
+Total transfered frames:484005, miss amount:58, Total Transferred size: 139818675
+969 minutes passing
+Total transfered frames:484505, miss amount:58, Total Transferred size: 139856675
+970 minutes passing
+Total transfered frames:485005, miss amount:58, Total Transferred size: 139894675
+Total transfered frames:485505, miss amount:58, Total Transferred size: 139932675
+971 minutes passing
+972 minutes passing
+Total transfered frames:486005, miss amount:58, Total Transferred size: 139970675
+973 minutes passing
+Total transfered frames:486505, miss amount:58, Total Transferred size: 140008675
+974 minutes passing
+Total transfered frames:487005, miss amount:58, Total Transferred size: 140046675
+975 minutes passing
+Total transfered frames:487505, miss amount:58, Total Transferred size: 140084675
+976 minutes passing
+Total transfered frames:488005, miss amount:58, Total Transferred size: 140122675
+977 minutes passing
+Total transfered frames:488505, miss amount:58, Total Transferred size: 140160675
+Total transfered frames:489005, miss amount:58, Total Transferred size: 140547009
+978 minutes passing
+979 minutes passing
+Total transfered frames:489505, miss amount:58, Total Transferred size: 141085055
+980 minutes passing
+Total transfered frames:490005, miss amount:58, Total Transferred size: 141680770
+Total transfered frames:490505, miss amount:58, Total Transferred size: 142266756
+981 minutes passing
+982 minutes passing
+Total transfered frames:491005, miss amount:58, Total Transferred size: 142842247
+983 minutes passing
+Total transfered frames:491505, miss amount:58, Total Transferred size: 143409916
+984 minutes passing
+Total transfered frames:492005, miss amount:58, Total Transferred size: 143949231
+985 minutes passing
+Total transfered frames:492505, miss amount:58, Total Transferred size: 144347089
+986 minutes passing
+Total transfered frames:493005, miss amount:58, Total Transferred size: 144711522
+Total transfered frames:493505, miss amount:58, Total Transferred size: 145065147
+987 minutes passing
+988 minutes passing
+Total transfered frames:494005, miss amount:58, Total Transferred size: 145411011
+989 minutes passing
+Total transfered frames:494505, miss amount:58, Total Transferred size: 145708736
+990 minutes passing
+Total transfered frames:495005, miss amount:58, Total Transferred size: 146016065
